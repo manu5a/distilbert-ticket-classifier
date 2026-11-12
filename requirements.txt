@@ -1,0 +1,14 @@
+# Runtime dependencies (API + training).
+# Tip: for a much smaller CPU-only PyTorch install, run first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.3
+transformers>=4.44,<5
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+pydantic-settings>=2.4
+sqlalchemy>=2.0
+psycopg[binary]>=3.2

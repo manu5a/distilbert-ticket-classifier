@@ -1,0 +1,58 @@
+name: Train model
+
+# Run by hand from the GitHub "Actions" tab. Trains DistilBERT on the CSV in
+# the repo (CPU, roughly 20-40 minutes for the sample data), then uploads the
+# model as a downloadable artifact - and to S3 if AWS is configured.
+
+on:
+  workflow_dispatch:
+    inputs:
+      data:
+        description: "CSV file with text,label columns"
+        default: data/sample_tickets.csv
+      epochs:
+        description: "Training epochs"
+        default: "3"
+
+permissions:
+  contents: read
+  id-token: write   # lets GitHub log in to AWS without stored keys (OIDC)
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install dependencies
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+      - name: Fine-tune DistilBERT
+        run: python -m ml.train --data "${{ inputs.data }}" --epochs "${{ inputs.epochs }}" --output-dir models/ticket-classifier
+      - name: Show test-set results
+        run: |
+          cat models/ticket-classifier/classification_report.txt
+          echo "## Test-set results" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          cat models/ticket-classifier/classification_report.txt >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload model artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ticket-classifier-model
+          path: models/ticket-classifier
+          retention-days: 30
+      - name: Configure AWS credentials
+        if: vars.AWS_DEPLOY_ENABLED == 'true'
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-region: ${{ vars.AWS_REGION }}
+      - name: Upload model to S3
+        if: vars.AWS_DEPLOY_ENABLED == 'true'
+        run: aws s3 sync models/ticket-classifier "${{ vars.MODEL_S3_URI }}" --delete

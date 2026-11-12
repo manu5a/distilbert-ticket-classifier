@@ -1,0 +1,18 @@
+[project]
+name = "ticket-classifier"
+version = "1.0.0"
+description = "DistilBERT support-ticket classification with a FastAPI + PostgreSQL inference service"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning"]
+
+[tool.ruff]
+line-length = 160
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["B008"]  # FastAPI's Depends()/Query() in defaults is the intended pattern

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.db
+# Trained models are large (~260 MB) - keep them out of git, store in S3 instead.
+models/*
+!models/.gitkeep
+.DS_Store
+.idea/
+.vscode/

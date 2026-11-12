@@ -1,0 +1,83 @@
+name: Deploy to AWS
+
+# Builds the image with the trained model baked in, pushes it to Amazon ECR
+# and rolls it out on Amazon ECS (Fargate).
+# Does nothing until AWS is set up - see docs/aws-setup.md, then set the
+# repository variable AWS_DEPLOY_ENABLED=true.
+
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: >-
+      vars.AWS_DEPLOY_ENABLED == 'true' &&
+      (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-latest
+    environment: production
+    env:
+      AWS_REGION: ${{ vars.AWS_REGION }}
+      ECR_REPOSITORY: ${{ vars.ECR_REPOSITORY }}
+      ECS_CLUSTER: ${{ vars.ECS_CLUSTER }}
+      ECS_SERVICE: ${{ vars.ECS_SERVICE }}
+      MODEL_S3_URI: ${{ vars.MODEL_S3_URI }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Download trained model from S3
+        run: |
+          aws s3 sync "$MODEL_S3_URI" models/ticket-classifier
+          test -f models/ticket-classifier/config.json || { echo "No model in $MODEL_S3_URI - run the 'Train model' workflow first"; exit 1; }
+
+      - name: Log in to Amazon ECR
+        id: ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build and push image
+        id: image
+        env:
+          REGISTRY: ${{ steps.ecr.outputs.registry }}
+          TAG: ${{ github.event.workflow_run.head_sha || github.sha }}
+        run: |
+          IMAGE="$REGISTRY/$ECR_REPOSITORY:$TAG"
+          docker build -t "$IMAGE" -t "$REGISTRY/$ECR_REPOSITORY:latest" .
+          docker push --all-tags "$REGISTRY/$ECR_REPOSITORY"
+          echo "image=$IMAGE" >> "$GITHUB_OUTPUT"
+
+      - name: Fill in task definition
+        id: taskdef
+        uses: aws-actions/amazon-ecs-render-task-definition@v1
+        with:
+          task-definition: deploy/aws/task-definition.json
+          container-name: api
+          image: ${{ steps.image.outputs.image }}
+          environment-variables: |
+            MODEL_VERSION=${{ github.event.workflow_run.head_sha || github.sha }}
+
+      - name: Deploy to ECS and wait until stable
+        uses: aws-actions/amazon-ecs-deploy-task-definition@v2
+        with:
+          task-definition: ${{ steps.taskdef.outputs.task-definition }}
+          cluster: ${{ env.ECS_CLUSTER }}
+          service: ${{ env.ECS_SERVICE }}
+          wait-for-service-stability: true

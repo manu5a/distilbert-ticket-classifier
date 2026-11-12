@@ -1,0 +1,1801 @@
+ticket_id,text,label
+T00001,"URGENT: My order hasn't arrievd, it's been a week and tracking shows nothing.",shipping_delivery
+T00002,"HI, THE API CRASHES ON MY ANDROID PHONE EVERY TIME I OPEN IT. MY EMAIL IS USER78236@EXAMPLE.COM",technical_issue
+T00003,"Good  morning, Since the last update the Basic plan is very slow on iPad.",technical_issue
+T00004,"i upgraded to the pro plan andg ot charged €49 straight away, is that right? thanks in advance!",billing
+T00005,URGENT: I was promised a refund of €240 by your agent but nothing came. Please reply asap!!,refund_request
+T00006,"Hi, Can you send me a VAT invoice for my aBsic plan subscription? Thanks in advance!",billing
+T00007,URGENT: I keep getting 'unexpected token' when I try to save in the Basic plan. My email is user52856@example.com,technical_issue
+T00008,"good morning, notifications stopped working on my macbook after the update. my email is user12915@example.com",technical_issue
+T00009,urgent: i keep getting 'connection timed out' when i try to save in the web dashboard.,technical_issue
+T00010,"Good morning, Uploading files fails with 'unexpected token' on the web dashboard. Regards, Customer",technical_issue
+T00011,my package from ups arrived damaged. please reply asap!!,shipping_delivery
+T00012,URGENT: Sync between the API and my iPhone stopped working 2 days ago. Thanks.,technical_issue
+T00013,URGENT: Sync between the API and my iPad stopped working since last Friday ago. Ticket ref #89039.,technical_issue
+T00014,URGENT:  I WAS CHARGED €19.99 TWICE THIS MONTH FOR THE API. PLEASE FIX THIS.,billing
+T00015,"Good  morning, I lost my phone and can't get my 2FA code, how do I get back in? My email is user32850@example.com",account_access
+T00016,"Hello  team, Notifications stopped working on my iPad after the update.",technical_issue
+T00017,my account got locked after too many login attempts on my android phone. my email is user73132@example.com,account_access
+T00018,"hello team, do you have a roadmap for new features in the basic plan?",general_inquiry
+T00019,"hi, export to pdf in the basic plan produces an empty file.",technical_issue
+T00020,Why does myi nvoice show €9.99 when my team workspace should cost less? Thanks in advance!,billing
+T00021,"URGENT: The mobile app won't load on Android phone, I just see 'connection timed out'. Ticket ref #18154.",technical_issue
+T00022,Why does my invoice show €19.99 when my Pro plan should cost less? Please reply asap!!,billing
+T00023,"I can't log in to my account, it says my password is wrong. Thanks.",account_access
+T00024,"How  do I change the credit card used for the Basic plan? Regards, Customer",billing
+T00025,The  payment for €120 falied but the money left my bank account.,billing
+T00026,URGENT: My account got locked after too many login attempts on my Android phone. Please reply asap!!,account_access
+T00027,"Hi, Since the last update the Basic plan is very slow on iPad. Thanks.",technical_issue
+T00028,"Good morning, Since the last update the team workspace is very slow on Firefox. Thanks in advance!",technical_issue
+T00029,"Good  morning, Sync between the web dashboard and my Windows laptop stopped working 10 days ago. Ticket ref #90065.",technical_issue
+T00030,Hi there - The payment for €14.50 failed but the money left my bank account. Please reply asap!!,billing
+T00031,"Hi,  I upgraded to the Pro plan and got charged €14.50 straight away, is that right?",billing
+T00032,"URGENT: Someone else may have logged into my account, please help secure it. Thanks in advance!",account_access
+T00033,"Hello team, The mobile app crashes on my Windows laptop every time I open it. Please reply asap!!",technical_issue
+T00034,"Good morning, I returned the item since last Friday ago and still have no refund. Please reply asap!!",refund_request
+T00035,URGENT:  I was charged €14.50 twice this month for the Basic plan. Please fix this. Thanks in advance!,billing
+T00036,Hi there - What are your customer support opening hours? My email is user7582@example.com,general_inquiry
+T00037,URGENT: Do you ship to Northern Ireland and how long does it take? My email is user21861@example.com,shipping_delivery
+T00038,"Hi,  Export to PDF in the desktop client produces an empty file. Regards, Customer",technical_issue
+T00039,Since the last update the desktop client is very slow on Android phone. My email is user55496@example.com,technical_issue
+T00040,"DHL returned my parcel to sender, can you resend it? Thanks in advance!",shipping_delivery
+T00041,Hi there - I returned the item since Monday ago and still have no refund. Ticket ref #78580.,refund_request
+T00042,"Good morning, The payment for €19.99 failed but the money left my bank account. Ticket ref #37471.",billing
+T00043,"My order hasn't arrived, it's been since last Friday and tracking shows nothing.",shipping_delivery
+T00044,"HI, CAN YOU SEND ME A VAT INVOICE FOR MY WEB DASHBOARD SUBSCRIPTION?",billing
+T00045,URGENT: Do you offer training sessions for new teams? Thanks in advance!,general_inquiry
+T00046,"Good morning, Does the mobile app support exporting data to Excel? Please reply asap!!",general_inquiry
+T00047,"Good morning, Is my data stored in the EU? We need to check GDPR compliance. Regards, Customer",general_inquiry
+T00048,Hi there - How do I change the email address on my account? My email is user75691@example.com,account_access
+T00049,"How do I change the email address on my account? Regards, Customer",account_access
+T00050,Two-factor codes are not being accepted on the desktop client.,account_access
+T00051,"Hi, How do I change the email address on my account? My email is user36509@example.com",account_access
+T00052,"Good morning, My account got locked after too many login attempts on ym Android phone. Regards, Customer",account_access
+T00053,Hi there - I was charged €49 twice this month for the Pro plan. Please fix this.,billing
+T00054,Export  to PDF in the Pro plan produces an empty file.,technical_issue
+T00055,"Hi, Someone else may have logged into my account, please help secure it. My email is user59028@example.com",account_access
+T00056,THE  PASSWORD RESET EMAIL NEVER ARRIVES. I'VE WAITED 10 DAYS.,account_access
+T00057,"I lost my phone and can't get my 2FA code, how do I get back in?",account_access
+T00058,Do you offer training sessions for new teams?,general_inquiry
+T00059,Export to PDF in the desktop client produces an empty file. My email is user58377@example.com,technical_issue
+T00060,"Can you send me a VAT invoice for my desktop client subscription? Regards, Customer",billing
+T00061,"Hi, Notifications stopped working on my iPad after the update. Ticket ref #44687.",technical_issue
+T00062,"hi, notifications stopped working on my ipad after the update. please reply asap!!",technical_issue
+T00063,"Hello team, Need a copy of all invoices for last year for our accounts team. My email is user82973@example.com",billing
+T00064,hi there - export to pdf in the pro plan produces an empty file. thanks.,technical_issue
+T00065,"Good morning, Why does my invoice show €19.99 when my desktop client should cost less? Regards, Customer",billing
+T00066,"Hi, My card was billed €49 but I cancelled the team workspace last month. Regards, Customer",billing
+T00067,"Hi, Cancel my order and refund me please. Ticket ref #60682.",refund_request
+T00068,"Good morning, I was promised a refund of €240 by your agent but ntohing came. Ticket ref #87991.",refund_request
+T00069,Where can I find documentation for the team workspace?,general_inquiry
+T00070,URGENT: Wehre can I find documentation for the API? Ticket ref #42505.,general_inquiry
+T00071,Uploading  files fails with 'unexpected token' on the Basic plan.,technical_issue
+T00072,"the web dashboard won't load on android phone, i just see a spinning wheel. thanks.",technical_issue
+T00073,"Hi, Is there a student discount for the Basic plan?",general_inquiry
+T00074,"Someone else may have logged into my account, please help secure it. My email is user14979@example.com",account_access
+T00075,"Good morning, I upgraded to the mobile app and got charged €14.50 straight away, is that right? My email is user38512@example.com",billing
+T00076,"Hi, Can I change the delivery address for my order before it ships?",shipping_delivery
+T00077,"Good morning, My card was billed €49 but I cancelled the team workspace last month. Thanks.",billing
+T00078,Cancel my order and refund me please.,refund_request
+T00079,Hi there - Notifications stopped working on my Firefox after the update. My email is user4280@example.com,technical_issue
+T00080,"Hi, Need a copy of all invoices for last year for our accounts team.",billing
+T00081,"urgent: the desktop client won't load on firefox, i just see a spinning wheel. thanks.",technical_issue
+T00082,URGENT: How do I change the credit card used for the Basic plan? Please reply asap!!,billing
+T00083,Cancel my order and refund me please. Please reply asap!!,refund_request
+T00084,Hit here - Two-factor codes are not being accepted on the mobile app. Thanks.,account_access
+T00085,"Hello team, Sync between the API and my Windows laptop stopped working 10 days ago. Thanks.",technical_issue
+T00086,"URGENT: THE PASSWORD RESET EMAIL NEVER ARRIVES. I'VE WAITED 2 DAYS. REGARDS, CUSTOMER",account_access
+T00087,I received the wrong item in my delivery. Thanks.,shipping_delivery
+T00088,URGENT: Can the web dashboard be used offline on Chrome?,general_inquiry
+T00089,"Hello team, Do you offer training sessions for new teams?",general_inquiry
+T00090,hi there - the password reset email never arrives. i've waited 2 days. please reply asap!!,account_access
+T00091,Hi there - Notifications stopped working on my Firefox after the update. Please reply asap!!,technical_issue
+T00092,"URGENT: The Pro plan won't load on iPad, I just see error code E-4031.",technical_issue
+T00093,"The  mobile app won't load on iPhone, I just see 'unexpected token'. Ticket ref #10120.",technical_issue
+T00094,Export to PDF in the mobile app produces an empty file.,technical_issue
+T00095,"hello team, i received the wrong item in my delivery.",shipping_delivery
+T00096,"Good  morning, Sync between the web dashboard and my Chrome stopped working a week ago. Thanks in advance!",technical_issue
+T00097,"HELLO  TEAM, I UPGRADED TO THE API AND GOT CHARGED €19.99 STRAIGHT AWAY, IS THAT RIGHT? PLEASE REPLY ASAP!!",billing
+T00098,"Hi, I was promised a refund of €240 by your agent but nothing came. Ticket ref #3733.",refund_request
+T00099,"Good morning, Notifications stopped working on my iPhone after the update.",technical_issue
+T00100,the password reset email never arrives. i've waited 10 days. thanks.,account_access
+T00101,Hi there - Can I change the delivery address for my order before it ships? My email is user90277@example.com,shipping_delivery
+T00102,hi  there - export to pdf in the pro plan produces an empty file.,technical_issue
+T00103,"Good morning, I keep getting a spinning wheel when I try to save in the API.",technical_issue
+T00104,Is my data stored in the EU? We need to check GDPR compliance. Thanks.,general_inquiry
+T00105,"hi, uploading files fails with 'unexpected token' on the web dashboard. please reply asap!!",technical_issue
+T00106,Hi there - Can I change the delivery address for my order before it ships? Ticket ref #17901.,shipping_delivery
+T00107,"hi, since the last update the desktop client is very slow on firefox. ticket ref #67648.",technical_issue
+T00108,"Hi, Can I get my money back for the unused months of the Basic plan?",refund_request
+T00109,Hi there - My card was billed €9.99 but I cancelled the desktop client last month. Thanks in advance!,billing
+T00110,"Hi there - Export to PDF in the team workspace produces an empty file. Regards, Customer",technical_issue
+T00111,The payment for €120 failed but the money left my bank account.,billing
+T00112,"Hi, Sync between the team workspace and my MacBook stopped working 3 weeks ago. Ticket ref #66799.",technical_issue
+T00113,"HELLO  TEAM, HOW LONG DOES A REFUND TAKE TO REACH MY CARD? THANKS.",refund_request
+T00114,"Hello  team, I was promised a refund of €49 by your agent but nothing came.",refund_request
+T00115,"I can't log in to my account, it says my password is wrong. Regards, Customer",account_access
+T00116,"Good morning, How do I change the credit card used for the Pro plan?",billing
+T00117,Why does my invoice show €240 when my mobile app should cost less? Please reply asap!!,billing
+T00118,i  received the wrong item in my delivery.,shipping_delivery
+T00119,"Hi, I need to add a new admin user to our mobile app.",account_access
+T00120,"URGENT: Notifications stopped working on my Android phone after the update. Regards, Customer",technical_issue
+T00121,URGENT: I keep getting error code E-4031 when I try to save in the Pro plan. Ticket ref #22842.,technical_issue
+T00122,"Hi there - Someone else may have logged into my account, please help secure it. Ticket ref #48619.",account_access
+T00123,hi there - i need to add a new admin user to our pro plan. please reply asap!!,account_access
+T00124,"i keep getting 'connection timed out' when i try to save in the api. regards, customer",technical_issue
+T00125,THE PAYMENT FOR €19.99 FAILED BUT THE MONEY LEFT MY BANK ACCOUNT. MY EMAIL IS USER27237@EXAMPLE.COM,billing
+T00126,"Good morning, Where can I find documentation for the desktop client? Regards, Customer",general_inquiry
+T00127,Hi there - Sync between the Pro plan and my Android phone stopped working 3 weeks ago. Please reply asap!!,technical_issue
+T00128,the  payment for €240 failed but the money left my bank account. ticket ref #76353.,billing
+T00129,"good morning, my account got locked after too many login attempts on my ipad. ticket ref #66911.",account_access
+T00130,"URGENT: Sync between the mobile app and my Chrome stopped working 10 days ago. Regards, Customer",technical_issue
+T00131,is there a student discount for the basic plan?,general_inquiry
+T00132,"Hi, I was promised a refund of €9.99 by your agent but nothing came. Regards, Customer",refund_request
+T00133,I was charged €120 twice this month for the Basic plan. Please fix this. Please reply asap!!,billing
+T00134,Is  there a student discount for the team workspace? Thanks in advance!,general_inquiry
+T00135,"Good morning, Notifications stopped working on my iPad after the update. Please reply asap!!",technical_issue
+T00136,The password reset email never arrives. I've waited a week. Please reply asap!!,account_access
+T00137,"HI, THE TEAM WORKSPACE CRASHES ON MY IPHONE EVERY TIME I OPEN IT. PLEASE REPLY ASAP!!",technical_issue
+T00138,Notifications stopped working on my MacBook after the update.,technical_issue
+T00139,URGENT: My package from UPS arrived damaged.,shipping_delivery
+T00140,"Hi, How do I change the email address on my account? Regards, Customer",account_access
+T00141,"GOOD MORNING, I CAN'T LOG IN TO MY ACCOUNT, IT SAYS MY PASSWORD IS WRONG. REGARDS, CUSTOMER",account_access
+T00142,"GOOD MORNING, CAN I GET MY MONEY BACK FOR THE UNUSED MONTHS OF THE DESKTOP CLIENT? TICKET REF #20369.",refund_request
+T00143,urgent: how do i change the credit card used for the web dashboard? my email is user97447@example.com,billing
+T00144,"Good morning, UPS returned my parcel to sender, can you resend it? Please reply asap!!",shipping_delivery
+T00145,URGENT: Two-factor codes are not being accepted on the mobile app. Thanks in advance!,account_access
+T00146,"hi,  when will my order be dispatched? i ordered 3 weeks ago. please reply asap!!",shipping_delivery
+T00147,"I received the wrong item in my delivery. Regards, Customer",shipping_delivery
+T00148,"good morning, two-factor codes are not being accepted on the pro plan.",account_access
+T00149,URGENT: I received the wrong item in my delivery.,shipping_delivery
+T00150,"Good  morning, Is there a student discount for the web dashboard? Thanks.",general_inquiry
+T00151,"Hello team, How do I change the credit card used for the mobile app? Thanks.",billing
+T00152,Hi there - Can I change the delivery address for my order before it ships? Thanks in advance!,shipping_delivery
+T00153,"Why does my invoice show €120 when my Basic plan should cost less? Regards, Customer",billing
+T00154,"Hi, I lost my phone and can't get my 2FA code, how do I get back in?",account_access
+T00155,"Please refund the €49 I paid, I cancelled within 14 days. Thanks.",refund_request
+T00156,URGENT:  Do you have a roadmap for new features in the team workspace? My email is user70228@example.com,general_inquiry
+T00157,URGENT:  Do you have a roadmap for new features in the API? My email is user16235@example.com,general_inquiry
+T00158,"GOOD MORNING, CANCEL MY ORDE RAND REFUND ME PLEASE. MY EMAIL IS USER89181@EXAMPLE.COM",refund_request
+T00159,"I  can't log in to my account, it says my password is wrong.",account_access
+T00160,"Good morning, FedEx returned my parcel to sender, can you resend it? Thanks.",shipping_delivery
+T00161,"Hello team, My package from DHL arrived damaged. Ticket ref #70721.",shipping_delivery
+T00162,WHAT ARE YOUR CUSTOMER SUPPORT OPENING HOURS? THANKS IN ADVANCE!,general_inquiry
+T00163,"Hi, I was charged €19.99 twice this month for the web dashboard. Please fix this. Thanks.",billing
+T00164,"How long does a refund take to reach my card? Regards, Customer",refund_request
+T00165,I received the wrong item in my delivery. Ticket ref #54511.,shipping_delivery
+T00166,Since  the last update the team workspace is very slow on MacBook. Thanks.,technical_issue
+T00167,"Good morning, Sync between the Pro plan and my Windows laptop stopped working since Monday ago.",technical_issue
+T00168,URGENT: How long does a refund take to reach my card? My email is user32797@example.com,refund_request
+T00169,"Hello team, I was promised a refund of €240 by your agent but nothing came. Please reply asap!!",refund_request
+T00170,"Hi, Sync between the mobile app and my Windows laptop stopped working since Monday ago. Thanks.",technical_issue
+T00171,"Good morning, Can you send me a VAT invoice for my web dashboard subscription? Please reply asap!!",billing
+T00172,HWO DO I CHANGE THE CREDIT CARD USED FOR THE BASIC PLAN?,billing
+T00173,Sync between the Pro plan and my Firefox stopped working a week ago. My email is user49916@example.com,technical_issue
+T00174,"hi, i can't log in to my account, it says my password is wrong. regards, customer",account_access
+T00175,"HI, WHAT ARE YOUR CUSTOMER SUPPORT OPENING HOURS? REGARDS, CUSTOMER",general_inquiry
+T00176,Hi there - Sync between the mobile app and my Firefox stpoped working 2 days ago. Ticket ref #50436.,technical_issue
+T00177,HI  THERE - DO YOU SHIP TO NORTHERN IRELAND AND HOW LONG DOES IT TAKE? THANKS IN ADVANCE!,shipping_delivery
+T00178,"Good  morning, Does the Basic plan support exporting data to Excel? Thanks.",general_inquiry
+T00179,URGENT: NOTIFICATIONS STOPPED WORKING ON MY CHROME AFTER THE UPDATE.,technical_issue
+T00180,Hi there - Notifications stopped working on my Windows laptop after the update. Thanks in advance!,technical_issue
+T00181,URGENT: The payment for €240 failed but the money left my bank account. Thanks.,billing
+T00182,"Hello  team, The payment for €49 failed but the money left my bank acconut. Thanks.",billing
+T00183,Hi there - How do I change the credit card used for the team workspace?,billing
+T00184,"Hi,  Since the last update the mobile app is very slow on Windows laptop. Thanks.",technical_issue
+T00185,"Hello team, Export to PDF in the API produces an empty file. Regards, Customer",technical_issue
+T00186,"Hi, Since the last update the mobile app is very slow on Windows laptop. Thanks.",technical_issue
+T00187,Hi  there - Notifications stopped working on my iPad after the update. Thanks in advance!,technical_issue
+T00188,URGENT: Do you have a roadmap for new features in the web dashboard? My email is user19242@example.com,general_inquiry
+T00189,Export to PDF in the API produces an empty file. Ticket ref #72256.,technical_issue
+T00190,URGENT: The DHL tracking link says delivered but I never got the parcel.,shipping_delivery
+T00191,"Hi, The Pro plan crashes on my Windows laptop every time I open it. Thanks in advance!",technical_issue
+T00192,"Hi, The web dashboard crashes on my iPhone every time I open it. Thanks.",technical_issue
+T00193,urgent: need a copy of all invoices for last year for our accounts team.,billing
+T00194,URGENT: My account got locked after too many login attempts on my Chrome. Thanks.,account_access
+T00195,Notifications stopped working on my iPhone after the update.,technical_issue
+T00196,Need a copy of all invoices for last year for our accounts team. Ticket ref #77939.,billing
+T00197,When will my order be dispatched? I ordered 10 days ago. Thanks in advance!,shipping_delivery
+T00198,"I upgraded to the web dashboard and got charged €120 straight away, is that right? Thanks.",billing
+T00199,URGENT: How do I change the credit card used for the Pro plan? My email is user54626@example.com,billing
+T00200,Hi there - Two-factor codes are not being accepted on the mobile app. Thanks.,account_access
+T00201,URGENT: How do I change the credit card used for the API? Ticket ref #14423.,billing
+T00202,"Hi there - The team workspace won't load on iPad, I just see a blank white screen. Thanks in advance!",technical_issue
+T00203,"Hi there - Two-factor codes are not being accepted on the team workspace. Regards, Customer",account_access
+T00204,"good morning, what are your customer support opening hours? thanks.",general_inquiry
+T00205,I  was promised a refund of €14.50 by your agent but nothing came. Ticket ref #60243.,refund_request
+T00206,"Hello team, The web dashboard won't load on MacBook, I just see 'unexpected token'.",technical_issue
+T00207,hi there - notifications stopped working on my android phone after the update. please reply asap!!,technical_issue
+T00208,"I'd like a refund for the Pro plan, it doesn't do what I need. My email is user60836@example.com",refund_request
+T00209,"Hi,  Can the Basic plan be used offline on iPad? Regards, Customer",general_inquiry
+T00210,My package from An Post arrived damaged. My meail is user11215@example.com,shipping_delivery
+T00211,"good morning, i was promised a refund of €120 by your agent but nothing came.",refund_request
+T00212,URGENT: I returned the item since Monday ago and still have no refund.,refund_request
+T00213,"Hello team, Is my data stored in the EU? We need to check GDPR complianec. Ticket ref #47076.",general_inquiry
+T00214,"HELLO TEAM, I LOST MY PHONE AND CAN'T GET MY 2FA CODE, HOW DO I GET BACK IN? THANKS IN ADVANCE!",account_access
+T00215,"hi, the password reset email never arrives. i've waited 2 days.",account_access
+T00216,"I received the wrong item in my delivery. Regards, Customer",shipping_delivery
+T00217,"An Post returned my parcel to sender, can you resend it? Thanks.",shipping_delivery
+T00218,"Good morning, Someone else may have logged into my account, please help secure it. Ticket ref #96677.",account_access
+T00219,"I can't log in to my account, it says my password is wrong. Thanks.",account_access
+T00220,"Good morning, Can I change the delivery address for my order before it ships?",shipping_delivery
+T00221,I received the wrong item in my delivery. Thanks.,shipping_delivery
+T00222,The  Pro plan crashes on my iPad every time I open it. Please reply asap!!,technical_issue
+T00223,"Hi there - FedEx returned my parcel to sender, can you resend it? Regards, Customer",shipping_delivery
+T00224,"hello team, i'd like a refund for the web dashboard, it doesn't do what i need.",refund_request
+T00225,I RECEIVED THE WRONG ITEM IN MY DELIVERY. THANKS IN ADVANCE!,shipping_delivery
+T00226,"My order hasn't arrvied, it's been since last Friday and tracking shows nothing. Regards, Customer",shipping_delivery
+T00227,The FedEx tracking link says delivered but I never got the parcel. My email is user99028@example.com,shipping_delivery
+T00228,"URGENT: I can't log in to my account, it says my password is wrong. Please reply asap!!",account_access
+T00229,"Hello team, Is there a student discount for the team workspace? Thanks.",general_inquiry
+T00230,"URGENT: Export to PDF in the mobile app produces an empty file. Regards, Customer",technical_issue
+T00231,"Good morning, Do you ship to Northern Ireland and how long does it take?",shipping_delivery
+T00232,URGENT: I returned the item a week ago and still have no refund. Ticket ref #49790.,refund_request
+T00233,"I'D LIKE A REFUND FOR THE PRO PLAN, IT DOESN'T DO WHAT I NEED. PLEASE REPLY ASAP!!",refund_request
+T00234,"Hi,  I received the wrong item in my delivery. Thanks in advance!",shipping_delivery
+T00235,"Uploading files fails with error 500 on the web dashboard. Regards, Customer",technical_issue
+T00236,Hi there - Does the web dashboard support exporting data to Excel? My email is user46093@example.com,general_inquiry
+T00237,The payment for €120 failed but the money left my bank account. Thanks in advance!,billing
+T00238,"Hi, My package from DHL arrived damaged. Thansk in advance!",shipping_delivery
+T00239,since  the last update the api is very slow on android phone. my email is user5975@example.com,technical_issue
+T00240,Hi  there - Sync between the team workspace and my Android phone stopped working 10 days ago.,technical_issue
+T00241,"hi, i keep getting error 500 when i try to save in the mobile app. please reply asap!!",technical_issue
+T00242,"Hi, Where can I find documentation for the Baisc plan? Thanks.",general_inquiry
+T00243,Do you offer training sessions for new teams? Please reply asap!!,general_inquiry
+T00244,How  do I change the credit card used for the mobile app? Please reply asap!!,billing
+T00245,"Hi, I was charged €120 twice this month for the Pro plan. Please fix this. My email is user50638@example.com",billing
+T00246,my package from an post arrived damaged. please reply asap!!,shipping_delivery
+T00247,The  password reset email never arrives. I've waited since last Friday. Ticket ref #86673.,account_access
+T00248,"do you offer training sessions for new teams? regards, customer",general_inquiry
+T00249,I  was charged €49 twice this month for the web dashboard. Please fix this.,billing
+T00250,"Hi, Notifications stopped working on my MacBook after the update. Ticket ref #25232.",technical_issue
+T00251,URGENT: Two-factor codes are not being accepted on the team workspace.,account_access
+T00252,"hi, someone else may have logged into my account, please help secure it. thanks in advance!",account_access
+T00253,Is there a student discount for the Pro plan? Thanks in advance!,general_inquiry
+T00254,"Hi, When will my order be dispatched? I ordered 3 weeks ago. Ticket ref #73385.",shipping_delivery
+T00255,"Hi there - Someone else may have logged into my account, please help secure it.",account_access
+T00256,"Hi, The product was faulty and I want a full refund of €120.",refund_request
+T00257,"Good morning, The desktop client won't load on Android phone, I just see 'connection timed out'.",technical_issue
+T00258,urgent: my package from fedex arrived damaged. ticket ref #80295.,shipping_delivery
+T00259,"Good  morning, How do I change the email address on my account? Ticket ref #18779.",account_access
+T00260,"Hi, I'd like a refund for the Basic plan, it doesn't do what I need. Thanks in advance!",refund_request
+T00261,How od I change the credit card used for the web dashboard? Please reply asap!!,billing
+T00262,URGENT: SINCE THE LAST UPDATE THE TEAM WORKSPACE IS VERY SLOW ON CHROME. THANKS IN ADVANCE!,technical_issue
+T00263,"URGENT: My card was billed €14.50 but I cancelled the desktop client last month. Regards, Customer",billing
+T00264,Hi there - Export to PDF in the mobile app produces an empty file.,technical_issue
+T00265,"Hi, I lost my phone and can't get my 2FA code, how do I get back in? Regards, Customer",account_access
+T00266,Since the last update the API is very slow on iPad. Please reply asap!!,technical_issue
+T00267,Hi there - Notifications stopped working on my iPhone after the update. Thanks in advance!,technical_issue
+T00268,URGENT: Since the last update the team workspace is very slow on Firefox. My email is user17769@example.com,technical_issue
+T00269,"Good morning, Do you ship to Northern Ireland and how long does it take? Regards, Customer",shipping_delivery
+T00270,hi there - i was charged €14.50 twice this month for the team workspace. please fix this. my email is user26499@example.com,billing
+T00271,"Good morning, I returned the item since Monday ago and still have no refund. Thanks.",refund_request
+T00272,"Good morning, I was charged €49 twice this month for the Pro plan. Please fix this. Thanks.",billing
+T00273,"Hi,  Export to PDF in the web dahsboard produces an empty file. Please reply asap!!",technical_issue
+T00274,"The mobile app won't load on Android phone, I just see a spinning wheel. Regards, Customer",technical_issue
+T00275,"Good morning, How do I change the email address on my account? Thanks in advance!",account_access
+T00276,"hi there - can i change the delivery address for my order before it ships? regards, customer",shipping_delivery
+T00277,Why  does my invoice show €120 when my web dashboard should cost less? My email is user92995@example.com,billing
+T00278,The payment for €240 failed but the money left my bank account.,billing
+T00279,URGENT:  Can I get my money back for the unused months of the mobile app? My email is user28222@example.com,refund_request
+T00280,URGENT: Is my data stored in the EU? We need to check GDPR compliance.,general_inquiry
+T00281,my  card was billed €49 but i cancelled the team workspace last month. ticket ref #97801.,billing
+T00282,"Good morning, Can I change the delivery address for my order before it ships?",shipping_delivery
+T00283,Cancel my order and refund me please.,refund_request
+T00284,"hello  team, i upgraded to the team workspace and got charged €14.50 straight away, is that right? thanks.",billing
+T00285,URGENT: Sync between the desktop client and my iPad stopped working since Monday ago.,technical_issue
+T00286,"Good morning, I was charged €91.99 twice this month for the Pro plan. Please fix this. Thanks.",billing
+T00287,"Good morning, Someone else may have logged into my account, please help secure it. My email is user12536@example.com",account_access
+T00288,"Hi there - I upgraded to the web dashboard and got charged €14.50 straight away, is that right? Regards, Customer",billing
+T00289,URGENT:  Can you send me a VAT invoice for my team workspace subscription? My email is user94933@example.com,billing
+T00290,How do I change the credit card used for the team workspace?,billing
+T00291,"Good morning, Sync between the Basic plan and my iPhone stopped working 3 weeks ago. Please reply asap!!",technical_issue
+T00292,urgent: cancel my order and refund me please.,refund_request
+T00293,"Hello team, My account got locked after too many login attempts on my Chrome. Please reply asap!!",account_access
+T00294,"Hi there - The mobile app won't load on MacBook, I just see a spinning wheel. Regards, Customer",technical_issue
+T00295,Hi  there - The payment for €240 failed but the money left my bank account. Thanks.,billing
+T00296,"hello team, someone else may have logged into my account, please help secure it.",account_access
+T00297,hi  there - the payment for €19.99 failed but the money left my bank account. thanks in advance!,billing
+T00298,"urgent: my package from fedex arrived damaged. regards, customer",shipping_delivery
+T00299,"URGENT: My order hasn't arrived, it's been since Monday and tracking shows nothing. Thanks in advance!",shipping_delivery
+T00300,Can  you send me a VAT invoice for my mobile app subscription?,billing
+T00301,"Hi there - The web dashboard won't load on Firefox, I just see 'connection timed out'.",technical_issue
+T00302,Hi there - How do I change the credit card used for the API? Thanks.,billing
+T00303,"URGENT: The mobile app won't load on Android phone, I just see a spinning wheel.",technical_issue
+T00304,"Hi there - The desktop client crashes on my Windows laptop every time I open it. Regards, Customer",technical_issue
+T00305,Can you send me a VAT invoice for my mobile app subscription?,billing
+T00306,"HELLO  TEAM, CAN I GET MY MONEY BACK FOR THE UNUSED MONTHS OF THE API? THANKS.",refund_request
+T00307,"HELLO TEAM, I KEEP GETTING ERROR CODE E-4031 WHEN I TRY TO SAVE IN THE API. MY EMAIL IS USER83603@EXAMPLE.COM",technical_issue
+T00308,The An Post tracking link says delivered but I never got the parcel. Please reply asap!!,shipping_delivery
+T00309,URGENT: Do you offer training sessions for new teams? Thanks in advance!,general_inquiry
+T00310,Hi  there - How do I change the credit card used for the Pro plan?,billing
+T00311,Hi there - Do you ship to Northern Ireland and how long does it take? Thanks.,shipping_delivery
+T00312,"Cancel my order and refund me please. Regards, Customer",refund_request
+T00313,Hi there - The DPD tracking link says delivered but I never got the parcel. My email is user44036@example.com,shipping_delivery
+T00314,"Good morning, I was promised a refund of €49 by your agent but nothing came. Ticket ref #37264.",refund_request
+T00315,"Good morning, Uploading files fails with a spinning wheel on the web dashboard.",technical_issue
+T00316,The An Post tracking link says delivered but I never got the parcel. Ticket ref #78337.,shipping_delivery
+T00317,Hi there - My account got locked after too many login attempts on my MacBook. Thanks.,account_access
+T00318,URGENT: I returned the item a week ago and still have no refund. Thanks.,refund_request
+T00319,"HELLO TEAM, HOW DO I CHANGE THE CREDIT CARD USED FOR THE BASIC PLAN? TICKET REF #62561.",billing
+T00320,URGENT: Can the team workspace beu sed offline on Firefox? Thanks.,general_inquiry
+T00321,Sync between the API and my MacBook stopped working 3 weeks ago.,technical_issue
+T00322,urgent: my card was billed €240 but i cancelled the mobile app last month. ticket ref #44283.,billing
+T00323,"URGENT:  DPD returned my parcel to sender, can you resend it? Thanks.",shipping_delivery
+T00324,"Do you offer training sessions for new teams? Regards, Customer",general_inquiry
+T00325,"URGENT: I returned the item since last Friday agoa nd still have no refund. Regards, Customer",refund_request
+T00326,I keep getting error code E-4031 when I try to save in the Pro plan. Thanks.,technical_issue
+T00327,URGENT: The password reset email never arrives. I've waited since Monday.,account_access
+T00328,Export to PDF in the team workspace proudces an empty file.,technical_issue
+T00329,I was promised a refund of €9.99 by your agent but nothing came.,refund_request
+T00330,"Hi, I upgraded to the desktop client and got charged €49 straight away, is that right? Please reply asap!!",billing
+T00331,"Hello team, My account got locked after too many login attempts on my Chrome. Please reply asap!!",account_access
+T00332,"HELLO  TEAM, SINCE THE LAST UPDATE THE PRO PLAN IS VERY SLOW ON ANDROID PHONE.",technical_issue
+T00333,"Hello team, Do you offer training sessions for new teams?",general_inquiry
+T00334,"Good morning, Does the team workspace support exporting data to Excel? Thanks in advance!",general_inquiry
+T00335,"Hi, Can I change the delivery address for my order before it ships? Thanks.",shipping_delivery
+T00336,The password reset email never arrives. I've waited since Monday. Please reply asap!!,account_access
+T00337,"Good morning, Notifications stopped working on my iPhone after the update. Please reply asap!!",technical_issue
+T00338,"good  morning, export to pdf in the web dashboard produces an empty file. my email is user77916@example.com",technical_issue
+T00339,"Good morning, Do you have a roadmap for new features in the team workspace?",general_inquiry
+T00340,URGENT: Since the last update the web dashboard is very slow on Windows laptop. Thanks.,technical_issue
+T00341,Uploading files fails with 'connection timed out' on the Basic plan. Thanks.,technical_issue
+T00342,"I'd like a refund for the team workspace, it doesn't do what I need. Regards, Customer",refund_request
+T00343,"Good morning, I can't log in to my account, it says my password is wrong. Please reply asap!!",account_access
+T00344,"Hi there - I can't log in to my account, it says my password is wrong. Please reply asap!!",account_access
+T00345,"Good morning, Where can I find documentation for the mobile app? Please reply asap!!",general_inquiry
+T00346,"Good morning, The UPS tracking link says delivered but I never got the parcel. Thanks in advance!",shipping_delivery
+T00347,HOW DO I CHANGE THE EMAIL ADDRESS ON MY ACCOUNT?,account_access
+T00348,"I received the wrong item in my delivery. Regards, Customer",shipping_delivery
+T00349,"Hello team, My account got locked after too many login attempts on my Windows laptop. My email is user97537@example.com",account_access
+T00350,My card was billed €49 but I cancelled the desktop client last month. Ticket ref #10351.,billing
+T00351,Notifications stopped working on my MacBook after the update. Ticket ref #22930.,technical_issue
+T00352,the an post tracking link says delviered but i never got the parcel. my email is user72884@example.com,shipping_delivery
+T00353,"urgent: the password reset email never arrives .i've waited a week. regards, customer",account_access
+T00354,URGENT: How long does a refund take to reach my card? My email is user18709@example.com,refund_request
+T00355,I was promised a refund of €240 by your agent but nothing came. My email is user71735@example.com,refund_request
+T00356,"Hello  team, The API crashes on my iPad every time I open it.",technical_issue
+T00357,Sync between the team workspace and my iPhone stopped working a week ago. Ticket ref #52740.,technical_issue
+T00358,"URGENT: Notifications stopped working on my Android phone after the update. Regards, Customer",technical_issue
+T00359,"HI, THE PAYMENT FOR €120 FAILED BUT THE MONEY LEFT MY BANK ACCOUNT. MY EMAIL IS USER25613@EXAMPLE.COM",billing
+T00360,"Hello team, The payment for €120 failed but the money left my bank account. Thanks.",billing
+T00361,"Hello team, The mobile app crashes on my iPhone every time I open it.",technical_issue
+T00362,URGENT: Can you send me a VAT invoice for my web dashboard subscription? Thanks in advance!,billing
+T00363,"Hello team, When will my order be dispatched? I ordered since last Friday ago.",shipping_delivery
+T00364,"Why does my invoice show €120 when my Basic plan should cost less? Regards, Customer",billing
+T00365,Hi there - Can I change the delivery address fro my order before it ships?,shipping_delivery
+T00366,URGENT: The DHL tracking link says delivered but I never got the parcel. Please reply asap!!,shipping_delivery
+T00367,Hi there - Is my data stored in the EU? We need to check GDPR compliance. My email is user25874@example.com,general_inquiry
+T00368,I returned the item 10 days ago and still have no refund. Please reply asap!!,refund_request
+T00369,Hi there - How do I change the email address on my account? Ticket ref #25886.,account_access
+T00370,"the  pro plan won't load on iphone, i just see a blank white screen. thanks.",technical_issue
+T00371,HI THERE - EXPORT TO PDF IN THE API PRODUCES AN EMPTY FILE. PLEASE REPLY ASAP!!,technical_issue
+T00372,"Good mornign, What are your customer support opening hours? Ticket ref #49374.",general_inquiry
+T00373,"Please refund the €9.99 I paid, I cancelled within 14 days. Ticket ref #25832.",refund_request
+T00374,"URGENT: UPS returned my parcel to sender, can you resend it? My email is user93084@example.com",shipping_delivery
+T00375,"Hello team, My account got locked after too many login attempts on my Chrome. Please reply asap!!",account_access
+T00376,Two-factor codes are not being accepted on the web dashboard. My email is user53047@example.com,account_access
+T00377,"Hi there - Can the Pro plan be used offline onW indows laptop? Regards, Customer",general_inquiry
+T00378,"Hello  team, The payment for €19.99 failed but the money left my bank account.",billing
+T00379,"URGENT: I need to add a new admin user to our team workspace. Regards, Customer",account_access
+T00380,"GOOD MORNING, NOTIFICATIONS STOPPED WORKING ON MY IPAD AFTER THE UPDATE.",technical_issue
+T00381,"Good morning, How do I change the email address on my account? Ticket ref #59407.",account_access
+T00382,Since the last update the mobile app is very slow on iPhone. Ticket ref #35413.,technical_issue
+T00383,Two-factor codes are not being accepted on the web dashboard. Thanks in advance!,account_access
+T00384,"I upgraded to the web dashboard and got charged €49 straight away, is that right?",billing
+T00385,urgent: i was charged €19.99 twice this month for the team workspace. please fix this.,billing
+T00386,"I'd like a refund for the mobile app, it doesn't do what I need.",refund_request
+T00387,my account got locked after too many login attempts on my firefox.,account_access
+T00388,"I can't log in to my account, it says my password is wrong. Please reply asap!!",account_access
+T00389,"Hello  team, The password reset email never arrives. I've waited 2 days. Thanks in advance!",account_access
+T00390,URGENT: Export to PDF in the web dashboard produces an empty file. Please reply asap!!,technical_issue
+T00391,"Hello team, The payment for €9.99 failed but the money left my bank account. Thanks.",billing
+T00392,hi there - two-factor codes are not being accepted on the web dashboard. please reply asap!!,account_access
+T00393,Hi there - My card was billed €240 but I cancelled the mobile app last month. Thanks.,billing
+T00394,"Hello team, How do I change the credit card used for the team workspace? Ticket ref #40760.",billing
+T00395,"Hi there - aCn you send me a VAT invoice for my Pro plan subscription? Regards, Customer",billing
+T00396,"Good morning, I received the wrong item in my delivery. Please reply asap!!",shipping_delivery
+T00397,"Good morning, The mobile app crashes on my MacBook every time I open it. Thanks.",technical_issue
+T00398,The  API crashes on my Firefox every time I open it.,technical_issue
+T00399,"Hi, Someone else may have logged into my account, please help secure it.",account_access
+T00400,URGENT: The payment for €240 failed but the money left my bank account. My email is user12854@example.com,billing
+T00401,"Someone else may have logged into my account, please help secure it. Thanks in advance!",account_access
+T00402,URGENT: The FedEx tracking link says delivered but I never got the parcel.,shipping_delivery
+T00403,"good  morning, notifications stopped working on my ipad after the update. thanks.",technical_issue
+T00404,"Good morning, I received the wrong item in my delivery.",shipping_delivery
+T00405,Hi there - Need a copy of all invoices for last year for our accounts team. My email is user11407@example.com,billing
+T00406,"good morning, two-factor codes are not being accepted on the pro plan.",account_access
+T00407,URGENT:  Why does my invoice show €19.99 when my web dashboard should cost less? Thanks.,billing
+T00408,Notifications stopped working on my iPhone after the update. My email is user18635@example.com,technical_issue
+T00409,"Hi there - My order hasn't arrived, it's been 2 days and tracking shows nothing. Regards, Customer",shipping_delivery
+T00410,"HI,  IS MY DATA STORED IN THE EU? WE NEED TO CHECK GDPR COMPLIANCE. THANKS IN ADVANCE!",general_inquiry
+T00411,"GOOD MORNING, CAN YOU SEND ME A VAT INVOICE FOR MY TEAM WORKSPACE SUBSCRIPTION? PLEASE REPLY ASAP!!",billing
+T00412,"Hello  team, The product was faulty and I want a full refund of €14.50. Please reply asap!!",refund_request
+T00413,"URGENT: The desktop client won't load on MacBook, I just see a blank white screen. My email is user21366@example.com",technical_issue
+T00414,"hi there - i'd like a refund for the team workspace, it doesn't do what i need. please reply asap!!",refund_request
+T00415,"Hi there - Please refund the €9.99 I paid, I cancelled within 14 days. Thanks.",refund_request
+T00416,"Hello team, Do you ship to Northern Ireland and how long does it take? Thanks in advance!",shipping_delivery
+T00417,The team workspace crashes on my Android phone every time I open it. My email is user66543@example.com,technical_issue
+T00418,I retunred the item since last Friday ago and still have no refund. Thanks in advance!,refund_request
+T00419,"Hi there - The An Post tracking link says delivered but I never got the parcel. Regards, Customer",shipping_delivery
+T00420,"the team workspace won't load on macbook, i just see a blank white screen. thanks.",technical_issue
+T00421,"Hi, The mobile app won't load on Android phone, I just see a blank white screen. Thanks.",technical_issue
+T00422,"Hi there - I can't log in to my account, it says my password is wrong. Thanks.",account_access
+T00423,"Good  morning, The team workspace won't load on Android phone, I just see error code E-4031. Thanks.",technical_issue
+T00424,I received the wrong item in my delivery. Please reply asap!!,shipping_delivery
+T00425,"Good morning, The Pro plan crashes on my MacBook every time I open it. Thanks.",technical_issue
+T00426,Hi there - The An Post tracking link says delivered but I never got the parcel. My email is user53535@example.com,shipping_delivery
+T00427,"URGENT:  The Basic plan won't load on iPad, I just see error code E-4031. Please reply asap!!",technical_issue
+T00428,I need to add a new admin user to our Pro plan.,account_access
+T00429,"GOOD  MORNING, SOMEONE ELSE MAY HAVE LOGGED INTO MY ACCOUNT, PLEASE HELP SECURE IT. THANKS.",account_access
+T00430,"Hi there - Someone else may have logged into my account, please help secure it. Please reply asap!!",account_access
+T00431,Do  you ship to Northern Ireland and how long does it take? Thanks.,shipping_delivery
+T00432,"Hi, How long does a refund take to reach my card? Ticket ref #82948.",refund_request
+T00433,"MY  CARD WAS BILLED €120 BUT I CANCELLED THE BASIC PLAN LAST MONTH. REGARDS, CUSTOMER",billing
+T00434,"Someone else may have logged into my account, please help secure it. Ticket ref #82690.",account_access
+T00435,"HI  THERE - NOTIFICATIONS STOPPED WORKING ON MY IPHONE AFTER THE UPDATE. REGARDS, CUSTOMER",technical_issue
+T00436,hi there - export to pdf in the desktop client produces an empty file.,technical_issue
+T00437,"Hello team, The payment for €49 failed but the money left my bank account. My email is user68195@example.com",billing
+T00438,"URGENT:  Since the last update the Pro plan is very slow on Firefox. Regards, Customer",technical_issue
+T00439,"I'd like a refund for the mobile app, it doesn't do what I need. Regards, Customer",refund_request
+T00440,My account got lockde after too many login attempts on my MacBook. Thanks in advance!,account_access
+T00441,URGENT: My account got locked afte rtoo many login attempts on my MacBook. My email is user96158@example.com,account_access
+T00442,"Good morning, The FedEx tracking link says delivered but I never got the parcel. My email is user98799@example.com",shipping_delivery
+T00443,Hi there - Notifications stopped working on my Windows laptop after the update.,technical_issue
+T00444,"Good morning, How long does a refund take to reach my card? Ticket ref #61438.",refund_request
+T00445,hi there - my account got locked after too many login attempts on my chrome. ticket ref #13805.,account_access
+T00446,i was charged €9.99 twice this month for the api. please fix this.,billing
+T00447,"Hello team, Can I change the delivery address for my order before it ships?",shipping_delivery
+T00448,How long does a refund take to reach my card? Ticket ref #44061.,refund_request
+T00449,"Hi there - I upgraded to the Basic plan and got charged €120 straight away, is that right? Ticket ref #29624.",billing
+T00450,URGENT: The payment for €9.99 failed but the money left my bank account.,billing
+T00451,URGENT: Need a copy of all invoices for last year for our accounts team.,billing
+T00452,"Good morning, Uploading files fails with a spinning wheel on the web dashboard. Please reply asap!!",technical_issue
+T00453,"I uprgaded to the desktop client and got charged €49 straight away, is that right? Please reply asap!!",billing
+T00454,"Good  morning, My package from UPS arrived damaged. My email is user70984@example.com",shipping_delivery
+T00455,HI THERE - THE WEB DASHBOARD CRASHES ON MY IPHONE EVERY TIME I OPEN IT. THANKS.,technical_issue
+T00456,"Good morning, I was charged €240 twice this month for the Basic plan. Please fix this.",billing
+T00457,"Hi, Please refund the €14.50 I paid, I cancelled within 14 days. Thanks in advance!",refund_request
+T00458,Is there a student discount for the mobile app? Please reply asap!!,general_inquiry
+T00459,Can  you send me a VAT invoice for my API subscription? Ticket ref #21677.,billing
+T00460,"Hello team, When will myo rder be dispatched? I ordered a week ago. Regards, Customer",shipping_delivery
+T00461,The DHL tracking link says delivered but I never got the parcel. Thanks in advance!,shipping_delivery
+T00462,"good morning, do you have a roadmap for new features in the web dashboard? thanks in advance!",general_inquiry
+T00463,"Hi  there - I was charged €49 twice this month for the Pro plan. Please fix this. Regards, Customer",billing
+T00464,URGENT: Is there a student discount for the Basic plan?,general_inquiry
+T00465,"HELLO TEAM, DO YOU HAVE A ROADMAP FOR NEW FEATURES IN TH ETEAM WORKSPACE? TICKET REF #27208.",general_inquiry
+T00466,"Hi,  Need a copy of all invoices for last year for our accounts team. Thanks in advance!",billing
+T00467,"Hi, My card was billed €120 but I cancelled the Pro plan last month. Please reply asap!!",billing
+T00468,"hi, can you send me a vat invoice for my pro plan subscription? my email is user61655@example.com",billing
+T00469,URGENT: SYNC BETWEEN THE API AND MY ANDROID PHONE STOPPED WORKING 3 WEEKS AGO.,technical_issue
+T00470,"Please refund the €19.99 I paid, I cancelled within 14 days. Ticket ref #29574.",refund_request
+T00471,"Good morning, Need a copy of all invoices for last year for our accounts team. My email is user19169@example.com",billing
+T00472,"Hello team, My order hasn't arrived, it's been since last Friday and tracking shows nothing.",shipping_delivery
+T00473,Why  does my invoice show €240 when my API should cost less? Please reply asap!!,billing
+T00474,"Hello team, The DPD tracking link says delivered but I never got the parcel.",shipping_delivery
+T00475,"My package from UPS arrived damaged. Regards, Customer",shipping_delivery
+T00476,"Hello team, I lost my phone and can't get my 2FA code, how do I get back in?",account_access
+T00477,"URGENT: Since the last update the web dashboard is very slow on Android phone. Regards, Customer",technical_issue
+T00478,Hi there - When will my order be dispatched? I ordered since Monday ago. Please reply asap!!,shipping_delivery
+T00479,"Hello team, I received the wrong item in my delivery. Regards, Customer",shipping_delivery
+T00480,URGENT: Since the last update the API is very slow on Android phone. Thanks.,technical_issue
+T00481,"Hi, Is there a student discount for the web dashboard?",general_inquiry
+T00482,URGENT: The password reset email never arrives. I've waited 3 weeks. Thanks.,account_access
+T00483,"Hello team, Is there a student discount for the team workspace?",general_inquiry
+T00484,Hi there - Sync between the web dashboard and my Windows laptop stoppde working 2 days ago. Thanks in advance!,technical_issue
+T00485,"Hi, Please refund the €19.99 I paid, I cancelled within 14 days.",refund_request
+T00486,"Hello team, How do I change the credit card used for the mobile app? My email is user98193@example.com",billing
+T00487,"Hello team, Notifications stopped working on my iPad after the update. Thanks in advance!",technical_issue
+T00488,"Hi there - Someone else may have logged into my account, please help secure it. My email is user94093@example.com",account_access
+T00489,"I can't log in to my account, it says my password is wrong. My email is user30428@example.com",account_access
+T00490,The FedEx tracking link says delivered but I never got the parcel. Thanks in advance!,shipping_delivery
+T00491,URGENT: Export to PDF in the API producesa n empty file. Please reply asap!!,technical_issue
+T00492,"Hi,  My account got locked after too many login attempts on my Android phone. Please reply asap!!",account_access
+T00493,"URGENT: The UPS tracking link says delivered but I never got the parcel. Regards, Customer",shipping_delivery
+T00494,My card was billed €49 but I cancelled the API last month. Thanks.,billing
+T00495,"Hi, The password reset email never arrives. I've waited a week. My email is user46640@example.com",account_access
+T00496,"Good morning, How do I change the email address on my account? Thanks in advance!",account_access
+T00497,do you offer training sessions for new teams? ticket ref #6572.,general_inquiry
+T00498,Does  the Pro plan support exporting data to Excel? Thanks in advance!,general_inquiry
+T00499,"GOOD MORNING, WHERE CAN I FIND DOCUMENTATION FOR THE MOBILE APP?",general_inquiry
+T00500,Hi  there - The desktop client crashes on my iPhone every time I open it. Please reply asap!!,technical_issue
+T00501,Do you offer training sessions for new teams?,general_inquiry
+T00502,"Good morning, The FedEx tracking link says delivered but I never got the parcel. Regards, Customer",shipping_delivery
+T00503,Why does my invoice show €120 when my team workspace should cost less? My email is user89092@example.com,billing
+T00504,"Good morning, I keep getting 'connection timed out' when I try to save in the desktop client. Thanks in advance!",technical_issue
+T00505,Hi  there - Uploading files fails with error code E-4031 on the team workspace. Ticket ref #64508.,technical_issue
+T00506,"Hello team, My account got locked after too many login attempts on my iPhone.",account_access
+T00507,"Hi, Cnacel my order and refund me please. My email is user67164@example.com",refund_request
+T00508,What are your customer support opening hours?,general_inquiry
+T00509,Hi there - My account got locked after too many login attempts on my Firefox. My email is user87517@example.com,account_access
+T00510,"hi,  someone else may have logged into my account, please help secure it. please reply asap!!",account_access
+T00511,"Hello team, I'd like a refund for the team workspace, it doesn't do what I need. Please reply asap!!",refund_request
+T00512,"Hello team, The password reset email never arrives. I've waited a week. Please reply asap!!",account_access
+T00513,Need a copy of all invoices for last year for our accounts team. Please reply asap!!,billing
+T00514,"GOOD MORNING, HOW DO I CHANGE THE EMAIL ADDRESS ON MY ACCOUNT? MY EMAIL IS USER84288@EXAMPLE.COM",account_access
+T00515,"Hi, Uploading files fails with error 500 on the API.",technical_issue
+T00516,"Hello team, I keep getting error code E-4031 when I try to save in the desktop client. Please reply asap!!",technical_issue
+T00517,"Good morning, I was charged €14.50 twice this month for the desktop client. Please fix this. Thanks in advance!",billing
+T00518,"Someone else may have logged into my account, please help secure it. Please reply asap!!",account_access
+T00519,URGENT:  I keep getting 'unexpected token' when I try to save in the desktop client. Thanks.,technical_issue
+T00520,UPLOADING FILES FAILS WITH 'UNEXPECTED TOKEN' ON THE WEB DASHBOARD.,technical_issue
+T00521,"Hello team, I can't log in to my account, it says my password is wrong. Regards, Customer",account_access
+T00522,"I returned the item 2 days ago and still have no refund. Regards, Customer",refund_request
+T00523,"Someone else may have logged into my account, please help secure it. Thanks.",account_access
+T00524,"Good morning, How do I change the credit card used for the desktop client? Thanks in advance!",billing
+T00525,Hi there - I was charged €240 twice this month for the team workspace. Please fix this. Thanks in advance!,billing
+T00526,"Good morning, My package from An Post arrived damaged. Regards, Customer",shipping_delivery
+T00527,"Hello team, The team workspace won't load on iPad, I just see 'connection timed out'.",technical_issue
+T00528,Hi there - What are your customer support opening hours? Please reply asap!!,general_inquiry
+T00529,"Hi, I returned the item 2 days ago and still have no refund. Thanks in advance!",refund_request
+T00530,Is there a student discount for the team workspace? My email is user97360@example.com,general_inquiry
+T00531,"Hi there - I upgraded to the mobile app and got charged €120 straight away, is that right?",billing
+T00532,"Hi,  My card was billed €14.50 but I cancelled the Pro plan last month. Thanks.",billing
+T00533,"Good morning, Cancel my order and refund me please. Thanks in advance!",refund_request
+T00534,Sync between the API and my Android phone stopped working 3 weeks ago. Ticket ref #20129.,technical_issue
+T00535,Export to PDF in the Pro plan produces an empty file. Ticket ref #91027.,technical_issue
+T00536,"Hi, I was charged €19.99 twice this month for the Pro plan. Please fix this.",billing
+T00537,i was charged €49 twice this month for the api. please fix this. please reply asap!!,billing
+T00538,"Good morning, Since the last update the web dashboard is very slow on iPad. Regards, Customer",technical_issue
+T00539,Export to PDF in the team workspace produces an empty file. Thanks.,technical_issue
+T00540,"Good morning, Need a copy of all invoices for last year for our accounts team. My email is user15744@example.com",billing
+T00541,Since the last update the desktop client is very slow on Chrome.T hanks in advance!,technical_issue
+T00542,do you ship to northern ireland and how long does it take?,shipping_delivery
+T00543,URGENT: When will my order be dispatched? I ordered 2 days ago. My email is user43587@example.com,shipping_delivery
+T00544,"Hello team, The product was faulty and I want a full refund of €9.99. Ticket ref #13130.",refund_request
+T00545,"Hi, Can you send me a VAT invoice for my Basic plan subscription? Thanks.",billing
+T00546,"Hello team, Can I change the delivery address for my order before it ships? My email is user59385@example.com",shipping_delivery
+T00547,URGENT: I returned the item 2 days ago and still have no refund. Please reply asap!!,refund_request
+T00548,URGENT: The An Post tracking link says delivered but I never got the parcel. Thanks.,shipping_delivery
+T00549,URGENT: Why does my invoice show €9.99 when my Pro plan should cost less?,billing
+T00550,"I'd like a refund for the Pro plan, it doesn't do what I need. Ticket ref #6932.",refund_request
+T00551,URGENT: I received the wrong item in my delivery. Thanks.,shipping_delivery
+T00552,"URGENT: I upgraded to the Pro plan and got charged €19.99 straight away, is that right? Ticket ref #87208.",billing
+T00553,"good morning, notifications stopped working on my windows laptop after the update. thanks in advance!",technical_issue
+T00554,"MY PACKAGE FROM UPS ARRIVED DAMAGED. REGARDS, CUSTOMER",shipping_delivery
+T00555,"GOOD  MORNING, I RECEIVED THE WRONG ITEM IN MY DELIVERY. REGARDS, CUSTOMER",shipping_delivery
+T00556,"Hello team, UPS returned my parcel to sender, can you resend it? Regards, Customer",shipping_delivery
+T00557,Is my data stored in the EU? We need to check GDPR compliance. Please reply asap!!,general_inquiry
+T00558,"Hi, Do you ship to Northern Ireland and how long does it take? Thanks in advance!",shipping_delivery
+T00559,"Good morning, Is my data stored in the EU? We need to check GDPR compliance. Please reply asap!!",general_inquiry
+T00560,"Hello  team, Need a copy of all inovices for last year for our accounts team.",billing
+T00561,Hi there - Since the last update the Basic plan is very slow on iPad. Ticket ref #15938.,technical_issue
+T00562,"I'd like a refund for the team workspace, it doesn't do what I need.",refund_request
+T00563,urgent: why does my invoice show €14.50 when my team workspace should cost less?,billing
+T00564,I received the wrong item in my delivery. Please reply asap!!,shipping_delivery
+T00565,"Good morning, Export to PDF in the mobile app produces an empty file. Please reply asap!!",technical_issue
+T00566,"HELLO TEAM, TWO-FACTOR CODES ARE NOT BEING ACCEPTED ON THE BASIC PLAN. PLEASE REPLY ASAP!!",account_access
+T00567,URGENT: How do I change the credit card used for the web dashboard?,billing
+T00568,The product was faulty and I want a full refund of €240. Please reply asap!!,refund_request
+T00569,"hi, sync between the api and my chrome stopped working since last friday ago. ticket ref #26859.",technical_issue
+T00570,the product was faulty and i want a full refund of €14.50. please reply asap!!,refund_request
+T00571,URGENT: The product was faulty and I want a full refund of €14.50. Please reply asap!!,refund_request
+T00572,"Hi, The web dashboard crashes on my Windows laptop every time I open it. Thanks in advance!",technical_issue
+T00573,My  package from PUS arrived damaged. My email is user13843@example.com,shipping_delivery
+T00574,Hi there - I need to add a new admin user to our Pro plan. Ticket ref #35562.,account_access
+T00575,"URGENT: Someone else may have logged into my account, please help secure it. My email is user17958@example.com",account_access
+T00576,Hi  there - My card was billed €9.99 but I cancelled the API last month.,billing
+T00577,"Hi, Uploading files fails with error code E-4031 on the web dashboard.",technical_issue
+T00578,"Hello  team, The web dashboard crashes on my MacBook every time I open it. Please reply asap!!",technical_issue
+T00579,I  received the wrong item in my delivery. Ticket ref #51755.,shipping_delivery
+T00580,"urgent: uploading files fails with 'unexpected token' on the desktop client. regards, customer",technical_issue
+T00581,"HI THERE - I CAN'T LOG IN TO MY ACCOUNT, IT SAYS MY PASSWORD IS WRONG.",account_access
+T00582,"Good morning, I received the wrongi tem in my delivery.",shipping_delivery
+T00583,"Hi, Uploading files fails with 'connection timed out' on the Pro plan. Thanks.",technical_issue
+T00584,How do I change the credit card used for the Basic plan?,billing
+T00585,"hi, can you send me a vat invoice for my basic plan subscription? ticket ref #16083.",billing
+T00586,URGENT: Sync between the Pro plan and my Windows laptop stopped working since lastF riday ago. Thanks in advance!,technical_issue
+T00587,My account got locked after too many login attempts on my Chrome. My email is user6477@example.com,account_access
+T00588,I  was charged €14.50 twice this month for the web dashboard. Please fix this. Please reply asap!!,billing
+T00589,"I lost my phone and can't get my 2FA code, how do I get back in? Regards, Customer",account_access
+T00590,Uploading  files fails with 'unexpected token' on the team workspace. Please reply asap!!,technical_issue
+T00591,"URGENT: My order hasn't arrived, it's been since last Friday and tracking shows nothing. Ticket ref #73848.",shipping_delivery
+T00592,"Good morning, The FedEx tracking link says delivered but I never got the parcel. Please reply asap!!",shipping_delivery
+T00593,URGENT:  What are your customer support opening hours?,general_inquiry
+T00594,Sync  between the Basic plan and my MacBook stopped working 10 days ago. Thanks in advance!,technical_issue
+T00595,HI THERE - MY ACCOUNT GOT LOCKED AFTER TOO MANY LOGIN ATTEMPTS ON MY ANDROID PHONE. THANKS.,account_access
+T00596,"HI THERE - UPLOADING FILES FAILS WITH 'UNEXPECTED TOKEN' ON THE BASIC PLAN. REGARDS, CUSTOMER",technical_issue
+T00597,"HI, DO YOU SHIP TO NORTHERN IRELAND AND HOW LONG DOES TI TAKE? MY EMAIL IS USER65955@EXAMPLE.COM",shipping_delivery
+T00598,How  do I change the email address on my account?,account_access
+T00599,Hi there - The payment for €240 failed but the money left my bank account. Ticket ref #4148.,billing
+T00600,URGENT: How do I change the email address on my account? My email is user13539@example.com,account_access
+T00601,I keep getting 'connection timed out' when I try to save in the team workspace. Ticket ref #9623.,technical_issue
+T00602,"Good  morning, I upgraded to the Basic plan and got charged €14.50 straight away, is that right? Ticket ref #61844.",billing
+T00603,"Hi there - My order hasn't arrived, it's been a week and tracking shows nothing.",shipping_delivery
+T00604,"good morning, the payment for €120 failed but the money left my bank account. thanks in advance!",billing
+T00605,"Hi, Do you ship to Northern Ireland and how long does it take? Regards, Customer",shipping_delivery
+T00606,URGENT: Can you send me a VAT invoice for my API subscription? Thanks in advance!,billing
+T00607,"Hi, I received hte wrong item in my delivery. Regards, Customer",shipping_delivery
+T00608,"Good morning, Do you have a roadmap for new features in the desktop client? My email is user97283@example.com",general_inquiry
+T00609,"Hi, I was charged €9.99 twice this month for the mobile app. Please fix this.",billing
+T00610,"Good  morning, Do you have a roadmap for new features in the Basic plan? Thanks.",general_inquiry
+T00611,"Hi, Does the team workspace support exporting data to Excel? Please reply asap!!",general_inquiry
+T00612,"Hello team, Someone else may have logged into my account, please help secure it. Thanks in advance!",account_access
+T00613,"Good morning, Do you have a roadmap for new features in the team workspace?",general_inquiry
+T00614,URGENT: The password reset email never arrives. I've waited 2 days. Ticket ref #99475.,account_access
+T00615,I received the wrong item in my delivery.,shipping_delivery
+T00616,Notifications stopped working on my Android phone after the update .Thanks.,technical_issue
+T00617,"hello team,f edex returned my parcel to sender, can you resend it? please reply asap!!",shipping_delivery
+T00618,Hi there - I keep getting error 500 when I try to save in the team workspace. Please reply asap!!,technical_issue
+T00619,"Good morning, The product was faulty and I want a full refund of €14.50. Regards, Customer",refund_request
+T00620,URGENT: The web dashboard crashes on my Firefox every time I open it. Thanks in advance!,technical_issue
+T00621,"Hello team, I need to add a new admin user to our mobile app. Ticket ref #28470.",account_access
+T00622,URGENT: I was charged €240 twice this month for the web dashboard. Please fix this. Ticket ref #56799.,billing
+T00623,"I CAN'T LOG IN TO MY ACCOUNT, IT SAYS MY PASSWORD IS WRONG. TICKET REF #50980.",account_access
+T00624,"Good morning, Export to PDF in the desktop client rpoduces an empty file. Thanks.",technical_issue
+T00625,Sync between the mobile app and my Firefox stopped working 3 weeks ago. Please reply asap!!,technical_issue
+T00626,"Hello team, I upgraded to the web dashboard and got charged €9.99 straight away, is that right? Thanks in advance!",billing
+T00627,"hello team, sync between the api and my firefox stopped working 10 days ago.",technical_issue
+T00628,"Hello team, Is my data stored in the EU? We need to check GDPR compliance. Regards, Customer",general_inquiry
+T00629,URGENT: I returned the item since last Friday ago and still have no refund. My email is user51418@example.com,refund_request
+T00630,"Hello team, Sicne the last update the mobile app is very slow on Firefox. Thanks in advance!",technical_issue
+T00631,how do i change the email address on my account?,account_access
+T00632,URGENT:  My package from DHL arrived damaged. Thanks.,shipping_delivery
+T00633,"hi, export to pdf in the basic plan produces an empty file.",technical_issue
+T00634,Hi there - The payment for €49 failed but the money left my bank account.,billing
+T00635,"Good morning, The FedEx tracking link says delivered but I never got the parcel.",shipping_delivery
+T00636,I was charged €9.99 twice this month for the web dashboard. Please fix this.,billing
+T00637,"Hello team, I keep getting a blank white screen when I try to save in the team workspace. Thanks in advance!",technical_issue
+T00638,"URGENT: I upgraded to the dekstop client and got charged €9.99 straight away, is that right? Thanks in advance!",billing
+T00639,"Hi, Export to PDF in the Pro plan produces an empty file.",technical_issue
+T00640,Do you ship to Northern Ireland and how long does it take?,shipping_delivery
+T00641,hi there - the basic plan crashes on my iphone every time i open it. ticket ref #32922.,technical_issue
+T00642,"Hi, The Basic plan crashes on my Firefox every time I open it. Thanks.",technical_issue
+T00643,When will my order be dispatched? I ordered 10 days ago. Thanks in advance!,shipping_delivery
+T00644,"FEDEX RETURNED MY PARCEL TO SENDER, CAN YOU RESEND IT?",shipping_delivery
+T00645,"Hello team, My card was billed €19.99 but I cancelled the API last month. Ticket ref #96025.",billing
+T00646,"Hello team, Uploading files fails with error code E-4031 on the API.",technical_issue
+T00647,Hi there - Since the last update the team workspace is very slow on iPad.,technical_issue
+T00648,"Hello  team, Uploading files fails with 'connection timed out' on the web dashboard. Thanks.",technical_issue
+T00649,"Hi, Do you ship ot Northern Ireland and how long does it take? Ticket ref #65166.",shipping_delivery
+T00650,URGENT: SINCE THE LAST UPDATE THE BASIC PLAN IS VERY SLOW ON IPAD. MY EMAIL IS USER84228@EXAMPLE.COM,technical_issue
+T00651,Hi there - Export to PDF in the Pro plan produces an empty file. Thanks.,technical_issue
+T00652,Is there a student discount for the Pro plan?,general_inquiry
+T00653,"Hi  there - Someone else may have logged into my account, please help secure it.",account_access
+T00654,"Good morning, Do you offer training sessions for new teams?",general_inquiry
+T00655,Hi  there - How do I change the credit card used for the Basic plan?,billing
+T00656,"hi,  when will my order be disptached? i ordered 2 days ago. thanks.",shipping_delivery
+T00657,THE PASSWORD RESET EMAIL NEVER ARRIVES. I'VE WAITED SINCE LAST FRIDAY.,account_access
+T00658,"Hi, Cancel my order and refund me please. Please reply asap!!",refund_request
+T00659,"Good morning, The mobile app crashes on my iPad every time I open it. Ticket ref #96056.",technical_issue
+T00660,URGENT:  Sync between the mobile app and my MacBook stopped working since Monday ago. Thanks in advance!,technical_issue
+T00661,"Hello team, How do I change the credit card used for the desktop client?",billing
+T00662,Hi  there - The UPS tracking link says delivered but I never got the parcel. Thanks.,shipping_delivery
+T00663,Need a copy of all invoices for last year for our accounts team. Thanks in advance!,billing
+T00664,"Hello team, Does the Basic plan support exporting data to Excel? Regards, Customer",general_inquiry
+T00665,"Hi, I received the wrong item in my delivery.",shipping_delivery
+T00666,"DHL returned my parcel to sender, can you resend it?",shipping_delivery
+T00667,"Hi there - My account got locked after too many login attempts on my Windows laptop. Regards, Customer",account_access
+T00668,Hi there - Since the last update the API is very slow on Firefox. Ticket ref #2204.,technical_issue
+T00669,"Hi,  Need a copy of all invoices for last year for our accounts team.",billing
+T00670,"Good morning, I received the wrong item in my delivery. Ticket ref #8708.",shipping_delivery
+T00671,"GOOD MORNING, I'D LIKE A REFUND FOR THE TEAM WORKSPACE, IT DOESN'T DO WHAT I NEED. REGARDS, CUSTOMER",refund_request
+T00672,"URGENT: How do I change the email address no my account? Regards, Customer",account_access
+T00673,"URGENT: My order hasn't arrived, it's been since last Friday and tracking shows nothing. Thanks.",shipping_delivery
+T00674,URGENT:  I was charged €14.50 twice this month for the mobile app. Please fix this. Ticket ref #56982.,billing
+T00675,URGENT: I WAS CHARGED €240 TWICE THIS MONTH FOR THE PRO PLAN. PLEASE FIX THIS. THANKS.,billing
+T00676,URGENT:  Can I change the delivery address for my order before ti ships? Ticket ref #37073.,shipping_delivery
+T00677,My package from UPS arrived damaged.,shipping_delivery
+T00678,Hi there - How do I change the credit card used for th ePro plan?,billing
+T00679,Hi  there - The password reset email never arrives. I've waited a week. Thanks.,account_access
+T00680,"Hi there - The An Post tracking link says delivered but I never got the parcel. Regards, Customer",shipping_delivery
+T00681,"Hi, The payment for €120 failed but the money left my bank account. Please reply asap!!",billing
+T00682,"Hi, I was charged €49 twice this month for the Basic plan. Please fix this. Thanks in advance!",billing
+T00683,since the last update the web dashboard is very slow on macbook. thanks.,technical_issue
+T00684,"Hi,  How do I change the credit card used for the API? Ticket ref #21118.",billing
+T00685,Why does my invoice show €240 when my API should cost less? Please reply asap!!,billing
+T00686,URGENT: The Pro plan crashes on my MacBook evrey time I open it. Thanks.,technical_issue
+T00687,"Hello team, When will my order be dispatched? I ordered 2 days ago. Please reply asap!!",shipping_delivery
+T00688,"someone else may have logged into my account, please help secure it. thanks.",account_access
+T00689,"Hello team, Do you ship to Northern Ireland and how long does it take? My email is user24999@example.com",shipping_delivery
+T00690,sync  between the mobile app and my firefox stopped working 3 weeks ago.,technical_issue
+T00691,"Hello team, The payment for €9.99 failed but the money left my bank account. Thanks.",billing
+T00692,URGENT: Sync between the team workspace and my Firefox stopped working since last Friday ago. Please reply asap!!,technical_issue
+T00693,"good  morning, my order hasn't arrived, it's been a week and tracking shows nothing.",shipping_delivery
+T00694,"HI, WHY DOES MY INVOICE SHOW €19.99 WHEN MY MOBILE APP SHOULD COST LESS? REGARDS, CUSTOMER",billing
+T00695,"HI, DOES THE WEB DASHBOARD SUPPORT EXPORTING DATA TO EXCEL? MY EMAIL IS USER44063@EXAMPLE.COM",general_inquiry
+T00696,I KEEP GETTING A SPINNING WHEEL WHEN I TRY TO SAVE IN THE WEB DASHBOARD. THANKS.,technical_issue
+T00697,URGENT: How do I change the email address on my account?,account_access
+T00698,"Hi, Sync between the Pro plan and my Android phone stopped working a week ago. Ticket ref #98507.",technical_issue
+T00699,"Good morning, When will my order be dispatched? I ordered 3 weeks ago. Thanks.",shipping_delivery
+T00700,I was promised a refund of €9.99 by your agent but nothing came. Please reply asap!!,refund_request
+T00701,Hi there - Does the web dashboard support exporting data to Excel? Ticket ref #33472.,general_inquiry
+T00702,URGENT: Can I get my money back for the unused months of the desktop client?,refund_request
+T00703,My  package from An Post arrived damaged. Thanks.,shipping_delivery
+T00704,Sync between the Basic plan and my Windows laptop stopped working 2 days ago. Ticket ref #85393.,technical_issue
+T00705,"Hi,  The Pro plan won't load on Android phone, I just see 'unexpected token'. Please reply asap!!",technical_issue
+T00706,"Hi, Where can I find documentation for the mobile app? Thanks.",general_inquiry
+T00707,Hi there - Uploading files fails with a blank white screen on the Basic plan.,technical_issue
+T00708,HI THERE - I KEEP GETTING 'UNEXPECTED TOKEN' WHEN I TRY TO SAVE IN THE PRO PLAN. MY EMAIL IS USER27476@EXAMPLE.COM,technical_issue
+T00709,"Hi  there - The mobile app won't load on MacBook, I just see error 500. My email is user55919@example.com",technical_issue
+T00710,URGENT:  Can I change the delivery address for my order before it ships? Ticket ref #65884.,shipping_delivery
+T00711,"SOMEONE ELSE MAY HAVE LOGGED INTO MY ACCOUNT, PLEASE HELP SECURE IT. THANKS.",account_access
+T00712,"i  lost my phone and can't get my 2fa code, how do i get back in?",account_access
+T00713,URGENT: Is there a student discount for the moible app?,general_inquiry
+T00714,"good morning, can the desktop client be used offline on android phone?",general_inquiry
+T00715,"Hi, The API crashes on my Firefox every time I open it. Ticket ref #86698.",technical_issue
+T00716,URGENT: Uploading files fails with error code E-4031 on the Basic plan. Thanks in advance!,technical_issue
+T00717,Since the last update the Basic plan is very slow on Chrome.,technical_issue
+T00718,"Godo morning, I upgraded to the Basic plan and got charged €240 straight away, is that right? Thanks.",billing
+T00719,"good morning, i'd like a refund for the basic plan, it doesn't do what i need.",refund_request
+T00720,need a copy of all invoices for last year for our accounts team. my email is user21252@example.com,billing
+T00721,"Please refund the €9.99 I paid, I cancelled within 14 days.",refund_request
+T00722,"Hi,  Do you offer training sessions for new teams? Thanks in advance!",general_inquiry
+T00723,"Hello team, Does the API support exporting data to Excel? Thanks.",general_inquiry
+T00724,"Good morning, I keep getting 'unexpected token' when I try to save in the mobile app.",technical_issue
+T00725,"Export to PDF in the team workspace produces an empty file. Regards, Customer",technical_issue
+T00726,"Hello team, I need to add a new admin user to our desktop client. Thanks in advance!",account_access
+T00727,I KEEP GETTING 'UNEXPECTED TOKEN' WHEN I TRY TO SAVE IN THE API. THANKS NI ADVANCE!,technical_issue
+T00728,"Good morning, My account got locked after too many login attempts on my iPhone. My email is user19892@example.com",account_access
+T00729,"Hello team, I'd like a refund for the desktop client, it doesn't do what I nede.",refund_request
+T00730,"Good morning, I'd like a refund for the Basic plan, it doesn't do what I need.",refund_request
+T00731,When  will my order be dispatched? I ordered 3 weeks ago.,shipping_delivery
+T00732,"Hi there - I can't log in to my account, it says my password is wrong. Regards, Customer",account_access
+T00733,"I upgraded to the Basic plan and got charged €19.99 straight away, is that right? Thanks ni advance!",billing
+T00734,"Hello  team, How do I change the email address on my account? Please reply asap!!",account_access
+T00735,"I'd like a refund for the Basic plan, it doesn't do what I need. Thanks in advance!",refund_request
+T00736,"hi, the payment for €14.50 failed but the money left my bank account.",billing
+T00737,"Hello team, Do you have a roadmap for new features in the mobile app?",general_inquiry
+T00738,"urgent: i upgraded to the web dashboard and got charged €9.99 straight away, is that right? my email is user11322@example.com",billing
+T00739,"good morning, can i change the delivery address for my order before it ships? please reply asap!!",shipping_delivery
+T00740,"good morning, i upgraded to the basic plan and got charged €14.50 straight away, is that right? my email is user13767@example.com",billing
+T00741,"Hi,  Please refund the €120 I paid, I cancelled within 14 days. Thanks.",refund_request
+T00742,"Hi, I need to add a new admin user to our mobile app. My email is user6189@example.com",account_access
+T00743,"Hello team, How do I change the credit card used for the API? Ticket ref #67314.",billing
+T00744,"My package from An Post arrived damaged. Regards, Customer",shipping_delivery
+T00745,urgent: do you ship to northern ireland and how long does it take?,shipping_delivery
+T00746,"Hi, I keep getting 'unexpected token' when I try to save in the mobile app. My email is user15984@example.com",technical_issue
+T00747,I WAS CHARGED €120 TWICE THIS MONTH FOR THE API. PLEASE FIX THIS. MY EMAIL IS USER28973@EXAMPLE.COM,billing
+T00748,"Hello team, Since the last update the Pro plan is very slow on Android phone. Regards, Customer",technical_issue
+T00749,"Hello team, Please refund the €49 I paid, I cancelled within 14 days. Ticket ref #64127.",refund_request
+T00750,URGENT: Do you offer training sessions for new teams? Thanks.,general_inquiry
+T00751,Hi there - Since the last update the web dashboard is very slow on Android phone. Ticket ref #35446.,technical_issue
+T00752,"Hello team, The DPD tracking link says delivered but I never got the parcel. Thanks.",shipping_delivery
+T00753,"Hello team, Where can I find documentation for the team workspace?",general_inquiry
+T00754,"Hello team, How do I change the email address on my account? Thanks.",account_access
+T00755,"Hello team, I keep getting error 500 when I try to save in the Pro plan. Ticket ref #14588.",technical_issue
+T00756,"I can't log in to my account, it says my password is wrong. Ticket ref #16007.",account_access
+T00757,"Good morning, Someone else may have logged into my accuont, please help secure it. Regards, Customer",account_access
+T00758,I was charged €49 twice this month for the Basic plan. Please fix this. Please reply asap!!,billing
+T00759,"I upgraded to the team workspace and got charged €14.50 straight away, is that right? Ticket ref #96435.",billing
+T00760,"Can  I change the delivery address for my order before it ships? Regards, Customer",shipping_delivery
+T00761,URGENT: Can I change the delivery address for my order before it ships? Ticket ref #4314.,shipping_delivery
+T00762,"Can you send me a VAT invoice for my mobile app subscription? Regards, Customer",billing
+T00763,"the password reset email never arrives. i've waited 2 days. regards, customer",account_access
+T00764,URGENT: Export to PDF in the team workspace produces an empty file.,technical_issue
+T00765,"Hi, The payment for €240 failed but the money left my bank account.",billing
+T00766,"Good  morning, The payment for €14.50 failed but the money left my bank account. Thanks.",billing
+T00767,"URGENT: My card was billed €120 but I cancelled the mobile app last month. Regards, Customer",billing
+T00768,"Good morning, Sync between the desktop client and my iPad stopped working 3 weeks ago. Regards, Customer",technical_issue
+T00769,"Hi there - I lost my phone and can't get my 2FA code, how do I get back in? Ticket ref #27177.",account_access
+T00770,can the api be used offline on macbook? please reply asap!!,general_inquiry
+T00771,urgent: sync between the desktop client and my windows laptop stopped working 10 days ago.,technical_issue
+T00772,"Hi, What are your customer support opening hours?",general_inquiry
+T00773,"GOOD MORNING, SOMEONE ELSE MAY HAVE LOGGED INTO MY ACCOUNT, PLEASE HELP SECURE IT. THANKS IN ADVANCE!",account_access
+T00774,"Good morning, The API won't load on MacBook, I just see 'connection timed out'.",technical_issue
+T00775,"hello team, i was promised a refund of €14.50 by your agent but nothing came.",refund_request
+T00776,"URGENT: FedEx returned my parcel to sender, can you resend it? Ticket ref #40117.",shipping_delivery
+T00777,"URGENT: Please refund the €9.99 I paid, I cancelled within 14 days. Please reply asap!!",refund_request
+T00778,The desktop client crashes on my iPad every time I open it.,technical_issue
+T00779,"Hello team, Can I change the delivery address for my order before it ships? Ticket ref #84480.",shipping_delivery
+T00780,"urgent: i lost my phone and can't get my 2fa code, how do i get back in? regards, customer",account_access
+T00781,My package from FedEx arrived damaged.,shipping_delivery
+T00782,How long does a refund take to reach my card?,refund_request
+T00783,"urgent:  i upgraded to the basic plan and got charged €49 straight away, is that right? regards, customer",billing
+T00784,"hi, need a copy of all invoices for last year for our accounts team. my email is user47131@example.com",billing
+T00785,URGENT: Notifications stopped working on my Windows laptop after the update.,technical_issue
+T00786,The  payment for €210 failed but the money left my bank account.,billing
+T00787,URGENT: I keep getting error code E-4031 when I try to save in the mobile app.,technical_issue
+T00788,"Hi, The payment for €49 failed but the money left my bank account. My email is user97874@example.com",billing
+T00789,"Hi, How do I change thec redit card used for the web dashboard?",billing
+T00790,URGENT: Does the web dashboard support exporting data to Excel?,general_inquiry
+T00791,"Hi, Why does my invoice show €240 when my Pro plan should cost less? Please reply asap!!",billing
+T00792,"HI THERE - THE API WON'T LOAD ON IPAD, I JUST SEE ERROR 500. REGARDS, CUSTOMER",technical_issue
+T00793,Can I change the delivery address for my order before it ships? Ticket ref #48109.,shipping_delivery
+T00794,"Hi, Is my data stored in the EU? We need to check GDPR compliance. Ticket ref #37208.",general_inquiry
+T00795,Need a copy of all invoices for last year for our accounts team. My email is user90853@example.com,billing
+T00796,"Hi, When will my order eb dispatched? I ordered 2 days ago.",shipping_delivery
+T00797,"URGENT: My order hasn't arrived, it's been 10 days and tracking shows nothing. Thanks.",shipping_delivery
+T00798,"Hello team, Can you send me a VAT invoice for my Pro plan subscription? Ticket ref #56386.",billing
+T00799,"Hello  team, Notifications stopped working on my Windows laptop after the update. Regards, Customer",technical_issue
+T00800,"Hi, Can I change the delivery address for my order before it ships? My email is user91981@example.com",shipping_delivery
+T00801,"Hi, Someone else may have logged into my account, please help secure it. Thanks.",account_access
+T00802,"Good morning, Can hte Pro plan be used offline on iPad?",general_inquiry
+T00803,"Please refund the €9.99 I piad, I cancelled within 14 days. Please reply asap!!",refund_request
+T00804,"I need to add a new damin user to our Basic plan. Regards, Customer",account_access
+T00805,"Hello team, The password reset email never arrives. I've waited 2 days.",account_access
+T00806,hi  there - can you send me a vat invoice for my team workspace subscription? my email is user87266@example.com,billing
+T00807,"Hi, My package from UPS arrived damaged. My email is user39015@example.com",shipping_delivery
+T00808,Hi  there - I keep getting 'connection timed out' when I try to save in the web dashboard. My email is user16745@example.com,technical_issue
+T00809,"I received the wrong item in my delivery. Regards, Customer",shipping_delivery
+T00810,"URGENT: DPD returned my parcel to sender, can you resend it? Please reply asap!!",shipping_delivery
+T00811,URGENT: What are your customer support opening hours? Thanks.,general_inquiry
+T00812,"The API won't load on Chrome, I just see error 500. Thanks.",technical_issue
+T00813,"hi,  sync between the pro plan and my android phone stopped working 3 weeks ago.",technical_issue
+T00814,"Hi, I can't log in to my account, it says my password is wrong. Thanks in advance!",account_access
+T00815,"Hi, Sync between the Pro plan and my Chrome stopped working a week ago. Thanks.",technical_issue
+T00816,Hi there - I received the wrong item in my delivery. Please reply asap!!,shipping_delivery
+T00817,the  ups tracking link says delivered but i never got the parcel.,shipping_delivery
+T00818,Hi there - Uploading files fails with 'connection timed out' on the web dashboard.,technical_issue
+T00819,The  password reset email never arrives. I've waited 2 days. Ticket ref #35194.,account_access
+T00820,"My order hasn't arrived, it's been since Monday and tracking shows nothnig.",shipping_delivery
+T00821,"Hi, My account got locked after too many login attempts on my Firefox. Thanks in advance!",account_access
+T00822,"hello team, i was charged €19.99 twice this month for the pro plan. please fix this.",billing
+T00823,"Hello  team, Since the last update the Pro plan is veyr slow on MacBook. Thanks in advance!",technical_issue
+T00824,"HELLO TEAM, MY ORDER HASN'T ARRIVED, IT'S BEEN 2 DAYS AND TRACKING SHOWS NOTHING.",shipping_delivery
+T00825,"Hi, Uploading files fails with error 500 on the Basic plan.",technical_issue
+T00826,"Hi,  Do you have a roadmap for new features in the web dashboard? Thanks in advance!",general_inquiry
+T00827,"Hi there - Export to PDF in the mobile app produces an empty file. Regards, Customer",technical_issue
+T00828,"Hi, Is my data stored in the EU? We need to check DGPR compliance.",general_inquiry
+T00829,"Hello  team, Someone else may have logged into my account, please help secure it. Thanks.",account_access
+T00830,"Good  morning, Where can I find documentation for the team workspace? Ticket ref #57039.",general_inquiry
+T00831,"Hello team, Uploading files fails with 'unexpected token' on the team workspace. Regards, Customer",technical_issue
+T00832,Hi there - Uploading files fails with a spinning wheel on the Pro plan. Ticket ref #6060.,technical_issue
+T00833,"I'd like a refund for the Pro plan, it doesn't do what I need. My email is user61650@example.com",refund_request
+T00834,"Hello team, Can I get my money back for the unused months of the web dashboard? Please reply asap!!",refund_request
+T00835,URGENT: My card was billed €14.50 but I cancelled the Basic plan last month.,billing
+T00836,UPLOADING FILES FAILS WITH 'UNEXPECTED TOKEN' ON THE MOBILE APP.,technical_issue
+T00837,"the api won't load on windows laptop, i just see 'unexpected token'. ticket ref #38104.",technical_issue
+T00838,WHERE CAN I FIND DOCUMENTATION FOR THE WEB DASHBOARD?,general_inquiry
+T00839,"GOOD  MORNING, HOW DO I CHANGE THE EMAIL ADDRESS ON MY ACCOUNT? THANKS.",account_access
+T00840,Hi there - Notifications stopped working on my Firefox after the update. My email is user87402@example.com,technical_issue
+T00841,Where can I find documentation for teh Basic plan?,general_inquiry
+T00842,"Good morning, How do I change the email address on my account? Thanks in advance!",account_access
+T00843,"Hello team, Since the last update the API is very slow on Windows laptop.",technical_issue
+T00844,MY CARD WAS BILLED €19.99 BUT I CANCELLED THE WEB DASHBOARD LAST MONTH. MY EMAIL IS USER98367@EXAMPLE.COM,billing
+T00845,URGENT:  Is there a student discount for the API? Thanks.,general_inquiry
+T00846,"Good morning, What are your customer support opening hours? My email is user98084@example.com",general_inquiry
+T00847,"Hi, The UPS tracking link says delivered but I never got the parcel. My email is user50725@example.com",shipping_delivery
+T00848,"Hi, The payment for €9.99 fialed but the money left my bank account. Ticket ref #38389.",billing
+T00849,"Hi, Uploading files fails with 'connection timed out' on the API. Thanks.",technical_issue
+T00850,Hi there - What are your customer support opening hours? Thanks.,general_inquiry
+T00851,I  was charged €49 twice this month for the mobile app. Please fix this. My email is user69274@example.com,billing
+T00852,"good morning, cancel my order and refund me please.",refund_request
+T00853,"hello team, i lost my phone and can't get my 2fa code, how do i get back in? please reply asap!!",account_access
+T00854,"URGENT: I can't log in to my account, it says my password is wrong. Ticket ref #29863.",account_access
+T00855,"hello team, my account got locked after too many login attempts on my firefox. thanks in advance!",account_access
+T00856,Hi there - Uploading files fails with 'unexpected token' on the API. Please reply asap!!,technical_issue
+T00857,Export to PDF in the web dashboard produces an empty file. My email is user39720@example.com,technical_issue
+T00858,urgent: export to pdf in the mobile app produces an empty file. my email is user42799@example.com,technical_issue
+T00859,"I  need to add a new admin user to our API. Regards, Customer",account_access
+T00860,"Hello team, The web dashboard won't load on MacBook, I just see 'connection timed out'.",technical_issue
+T00861,Hi  there - Since the last update the API is very slow on Android phone. Please reply asap!!,technical_issue
+T00862,Hi there - How long does a refund take to reach my card? Thanks in advance!,refund_request
+T00863,Since the last update the mobile app is very slow on Windows laptop. Thanks in advance!,technical_issue
+T00864,"Hi, I'd like a refund for the Basic plan, it doesn't do what I need. Thanks in advance!",refund_request
+T00865,The product was faulty and I want a full refund of 9€.99. Ticket ref #3641.,refund_request
+T00866,"Hello team, The payment for €120 failed but the money left my bank account. Regards, Customer",billing
+T00867,I keep getting 'connection timed out' when I try to save in the Basic plan. Thanks in advance!,technical_issue
+T00868,hi  there - i received the wrong item in my delivery. please reply asap!!,shipping_delivery
+T00869,Hi there - My card was billed €120 but I cancelled the Basic plan last month. Thanks.,billing
+T00870,Hi there - Need a copy of all invoices for last year for our accounts team. Please reply asap!!,billing
+T00871,Hi  there - I need to add a new admin user to our API. My email is user68427@example.com,account_access
+T00872,"DPD  returned my parcel to sender, can you resend it?",shipping_delivery
+T00873,"Hello team, Need a copy of all invoices for last year for our accounts team. Regards, Customer",billing
+T00874,"URGENT: The API won't load on Firefox, I just see a spinning wheel. Thanks in advance!",technical_issue
+T00875,Since  the last update the Basic plan is very slow on Chrome. Ticket ref #24491.,technical_issue
+T00876,why does my invoice show €49 when my api should cost less? my email is user78916@example.com,billing
+T00877,"Good morning, Can you send me a VAT invoice for my mobile app subscription? Please reply asap!!",billing
+T00878,"Good morning, My card was billed €19.99 but I cancelled the Pro plan last month.",billing
+T00879,the  product was faulty and i want a full refund of €14.50.,refund_request
+T00880,"Hi, How long does a refund take to reach my card? My email is user43872@example.com",refund_request
+T00881,URGENT: Export to PDF in the mobile app produces an empty file. Thanks in advance!,technical_issue
+T00882,"Good morning, I lost my phone and can't get my 2FA code, how do I get back in? Thanks.",account_access
+T00883,can  you send me a vat invoice for my web dashboard subscription? please reply asap!!,billing
+T00884,URGENT:  The API crashes on my Windows laptop every time I open it. Ticket ref #6756.,technical_issue
+T00885,"hi, need a copy of all invoices for last year for our accounts team.",billing
+T00886,I returned the item 3 weeks ago and still have no refund.,refund_request
+T00887,Do you ship to Northern Ireland and how long does it take? Please reply asap!!,shipping_delivery
+T00888,"My card was billed €9.99 but I cancelled the desktop client last month. Regards, Customer",billing
+T00889,"hello team, can the mboile app be used offline on chrome?",general_inquiry
+T00890,"URGENT: I can't log in to my account, it says my password is wrong. My email is user11652@example.com",account_access
+T00891,"Hi, I returned the item a week ago and still have no refund. Thanks.",refund_request
+T00892,"Good morning, Can the desktop client be used offline on MacBook? Please reply asap!!",general_inquiry
+T00893,"Good morning, I upgraded to the Basic plan and got charged €14.50 straight away, is that right? Please reply asap!!",billing
+T00894,"I lost my phone and can't get my 2FA code, how do I get back in? Regards, Customer",account_access
+T00895,Notifications stopped working on my Chrome after the update. Please reply asap!!,technical_issue
+T00896,Hi there - Can the Basic plan be used offline on MacBook? My email is user78801@example.com,general_inquiry
+T00897,"Hello team, Do you ship to Northern Ireland and how long does it tkae?",shipping_delivery
+T00898,"HI,  THE PAYMENT FOR €14.50 FAILED BUT THE MONEY LEFT MY BANK ACCOUNT. THANKS.",billing
+T00899,How do I change the credit card used for the web dashboard? Thanks.,billing
+T00900,Can you send me a VAT invoice for my Basic plan subscription? Thanks.,billing
+T00901,"Good morning, I received the wrong item in my delivery. Thanks.",shipping_delivery
+T00902,"Hi,  The password reset email never arrives. I've waited 2 days. Thanks.",account_access
+T00903,"hello team, i keep getting error 500 when i try to save in the desktop client. thanks in advance!",technical_issue
+T00904,"good  morning, export to pdf in the pro plan produces an empty file.",technical_issue
+T00905,"Hello team, I'd like a refund for the Basic plan, it dosen't do what I need. My email is user2518@example.com",refund_request
+T00906,"hi, i keep getting error code e-4031 when i try to save in the api. please reply asap!!",technical_issue
+T00907,"PLEASE REFUND THE €49 I PAID, I CANCELLED WITHIN 14 DAYS. MY EMAIL IS USER58001@EXAMPLE.COM",refund_request
+T00908,"HI, HOW DO I CHANGE THE CREDIT CARD USED FOR THE MOBILE APP? REGARDS, CUSTOMER",billing
+T00909,how do i change the email address on my account?,account_access
+T00910,"Hi, Export to PDF in the desktop client produces an empty file.",technical_issue
+T00911,"hello team, do you offer training sessions for new teams? regards, customer",general_inquiry
+T00912,"good morning, do you offer training sessions for new teams? thanks in advance!",general_inquiry
+T00913,"Hi,  Since the last update the mobile app is very slow on Chrome. Thanks.",technical_issue
+T00914,URGENT: THE PAYMENT FOR €240 FAILED BUT THE MONEY LEFT MY BANK ACCOUNT. THANKS IN ADVANCE!,billing
+T00915,"Hi, I was promised a refund of €49 by your agent but nothing came.",refund_request
+T00916,"Hello team, My account got locked after too many login attempts on my MacBook.",account_access
+T00917,"Hi, Uploading files fails with a blank white screen on the team workspace. Thanks.",technical_issue
+T00918,"Hello team, Export to PDF in the Basic plan produces an empty file.",technical_issue
+T00919,"Good morning, I upgraded to the API and got charged €49 straight away, is that right? Regards, Customer",billing
+T00920,"Hi, How long does a refund take to reach my card? My email is user61806@example.com",refund_request
+T00921,"URGENT: The team workspace wo'nt load on MacBook, I just see error 500. Ticket ref #77042.",technical_issue
+T00922,Hi there - Why does my invoice show €240 when my API should cost less? Thanksi n advance!,billing
+T00923,"Hello team, Do you offer training sessions for new teams? Thanks in advance!",general_inquiry
+T00924,"Good morning, Do you have a roadmap for new features in the API? My email is user32704@example.com",general_inquiry
+T00925,URGENT: I returned the item 2 days ago and still have no refund.,refund_request
+T00926,"HELLO TEAM, THE PRODUCT WAS FAULTY AND I WANT A FULL REFUND OF €9.99.",refund_request
+T00927,"good morning, my order hasn't arrived, it's been since last friday and tracking shows nothing. my email is user57175@example.com",shipping_delivery
+T00928,"Good morning, The FedEx tracking link says delivered but I never got the parcel. Thanks.",shipping_delivery
+T00929,"Good morning, Expotr to PDF in the team workspace produces an empty file. My email is user44340@example.com",technical_issue
+T00930,"URGENT: The payment for €49 failed but the money left my bank account. Regards, Customer",billing
+T00931,"Good morning, Since the last update the Basic plan is very slow on Chrome. Thanks in advance!",technical_issue
+T00932,"Hi, DHL returned my parcel to sender, can you resend it? Please reply asap!!",shipping_delivery
+T00933,"I need to add a new admin user to our web dashboard. Regards, Customer",account_access
+T00934,NEED A COPY OF ALL INVOICES FOR LAST YEAR FOR OUR ACCOUNTS TEAM. THANKS IN ADVANCE!,billing
+T00935,"Hi there - I lost my phone and can't get my 2FA code, how do I get back in? My email is user75278@example.com",account_access
+T00936,"hi, my package from fedex arrived damaged. regards, customre",shipping_delivery
+T00937,The payment for €19.99 failed but the money left my bank account. My email is user61852@example.com,billing
+T00938,"HELLO TEAM, WHY DOES MY INVOICE SHOW €120 WHEN MY WEB DASHBOARD SHOULD COST LESS? THANKS IN ADVANCE!",billing
+T00939,"Hi, I received the wrong item in my delivery. My email is user1064@example.com",shipping_delivery
+T00940,"Hi  there - I lost my phone and can't get my 2FA code, how do I get back in? Regards, Customer",account_access
+T00941,URGENT: I was charged €120 twice this month for the mobile app. Please fix this.,billing
+T00942,"Good morning, My account got locked after too many login attempts on my iPad. Regards, Customer",account_access
+T00943,Hi there - My account got locked after too many login attempts on my Android phone. Thanks.,account_access
+T00944,"Hi, Uploading files fails with 'connection timed out' on the web dashboard. Please reply asap!!",technical_issue
+T00945,"Good morning, I'd like a refund for the team workspace, it doesn't do what I need. Thanks.",refund_request
+T00946,"Hi  there - The Pro plan won't load on Windows laptop, I just see a spinning wheel. Thanks in advance!",technical_issue
+T00947,"Hi,  Export to PDF in the desktop client proudces an empty file. My email is user33747@example.com",technical_issue
+T00948,"Good morning, The web dashboard won't load on Windows laptop, I just see 'unexpected token'.",technical_issue
+T00949,"Hi  there - The password reset email never arrives. I've waited since Monday. Regards, Customer",account_access
+T00950,"Hello team, How long does a refund take to reach my card? My email is user30842@example.com",refund_request
+T00951,"Good morning, I can't log in to my account, it says my psasword is wrong. My email is user7295@example.com",account_access
+T00952,Where can I find documentation for the team workspace?,general_inquiry
+T00953,"Hello team, Please refund the €14.50 I paid, I cancelled within 14 days. Ticket ref #37289.",refund_request
+T00954,"HI THERE - HOW DO I CHANGE THE CREDIT CARD USED FOR THE WEB DASHBOARD? REGARDS, CUSTOMER",billing
+T00955,"Hi, Sync between the API and my Firefox stopped working 3 weeks ago. Thanks in advance!",technical_issue
+T00956,"Hi, The payment for €9.99 failed but the money left my bank account. Thanks.",billing
+T00957,"hello  team, the payment for €49 failed but the money left my bank account.",billing
+T00958,Hi there - Can I get my money back for the unused months of the web dashboard? Thanks in advance!,refund_request
+T00959,"Hi,  The An Post tracking link says delivered but I never got the parcel. Please reply asap!!",shipping_delivery
+T00960,"Hi, The password reset email never arrives. I've waited 3 weeks.",account_access
+T00961,I  keep getting 'connection timed out' when I try to save in the desktop client. Please reply asap!!,technical_issue
+T00962,"Hi there - Need a copy of all invoices for last year for our accounts team. Regards, Customer",billing
+T00963,"URGETN: Is there a student discount for the mobile app? Regards, Customer",general_inquiry
+T00964,URGENT:  Export to PDF in the Pro plan produces an empty file. Ticket ref #79447.,technical_issue
+T00965,"Good morning, Why does my invoice show €120 when my Pro plan should cost less? Thanks.",billing
+T00966,How  do I change the credit card used for the API? Thanks in advance!,billing
+T00967,"URGENT: DPD returned my parcel to sender, can you resend it? Thanks.",shipping_delivery
+T00968,"URGENT: I LOST MY PHONE AND CAN'T GET MY 2FA CODE, HOW DO I GET BACK IN? THANKS.",account_access
+T00969,Can you send me a VAT invoice for my Basic plan subscription? Ticket ref #43274.,billing
+T00970,URGENT: I was promised a refund of €120 by your agent but nothing came. My email is user16442@example.com,refund_request
+T00971,"Good  morning, Can the mobile app be used offline on iPad?",general_inquiry
+T00972,"Good morning, Can I change the delivery address for my order before it ships? Regards, Customer",shipping_delivery
+T00973,Is there a student discount for the web dashboard? Thanks in advance!,general_inquiry
+T00974,"i'd like a refund for the team workspace, it doesn't do what i need. thanks.",refund_request
+T00975,"Hello team, I returned the item 10 days ago and still have no refund. Ticket ref #39862.",refund_request
+T00976,HI THERE - THE PAYMENT FOR €49 FAILED BUT THE MONEY LEFT MY BANK ACCOUNT. THANKS IN ADVANCE!,billing
+T00977,Hi  there - My account got locked after too many login attempts on my iPad. Ticket ref #52249.,account_access
+T00978,Notifications  stopped working on my Firefox after the update. Thanks in advance!,technical_issue
+T00979,"good morning, i keep getting 'unexpected token' when i try to save in the team workspace. my emai lis user40167@example.com",technical_issue
+T00980,Hi there - Where can I find documentation for the mobile app? My email is user56824@example.com,general_inquiry
+T00981,"Hello team, I keep getting a blank white screen when I try to save in the Pro plan. My email is user92959@example.com",technical_issue
+T00982,"when will my order be dispatched? i ordered 3 weeks ago. regards, customer",shipping_delivery
+T00983,Hi  there - Notifications stopped working on my Windows laptop after the update. Ticket ref #80511.,technical_issue
+T00984,"URGENT: Please refund the €9.99 I paid, I cancelled within 14 days. Ticket ref #52608.",refund_request
+T00985,"i  can't log in to my account, it says my password is wrong. thanks in advance!",account_access
+T00986,"good morning, cancel my order and refund me please. regards, customer",refund_request
+T00987,"Good morning, Can I get my money back for the unused months of the API? Please reply asap!!",refund_request
+T00988,Hi there - Can I get my money back for the unused months of the mobile app? Ticket ref #42015.,refund_request
+T00989,Do you ship to Northern Ireland and how long does it take? Please reply asap!!,shipping_delivery
+T00990,Hi there - Since the last update the web dashboard is very slow on Chrome.,technical_issue
+T00991,"THE WEB DASHBOARD WON'T LOAD ON ANDROID PHONE, I JUST SEE 'CONNECTION TIMED OUT'.",technical_issue
+T00992,"GOOD MORNING, EXPORT TO PDF IN THE BASIC PLAN PRODUCES AN EMPTY FILE. MY EMAIL SI USER85920@EXAMPLE.COM",technical_issue
+T00993,Hi there - I need to add a new admin user to our web dashboard. Thanks.,account_access
+T00994,"Hi  there - The team workspace won't load on iPad, I just see 'connection timed out'. Thanks in advance!",technical_issue
+T00995,"hi, do you have a roadmap for new features in the team workspace? my email is user71170@example.com",general_inquiry
+T00996,Hi there - My package from An Post arrived damaged. My email is user66160@example.com,shipping_delivery
+T00997,"URGENT: I can't log in to my account, it says my password is wrong. Please relpy asap!!",account_access
+T00998,"My account got locked after too many login attempts on my Android phone. Regards, Customer",account_access
+T00999,hi there - how do i change the email address on my account?,account_access
+T01000,Is there a student discount for the team workspace? Please reply asap!!,general_inquiry
+T01001,URGENT:  Export to PDF in the Basic plan produces an empty file. Please reply asap!!,technical_issue
+T01002,"h ithere - how do i change the credit card used for the desktop client? regards, customer",billing
+T01003,Does the Pro plan support exporting data to Excel? Please reply asap!!,general_inquiry
+T01004,Since the last update the API is very slow on Windows laptop. Thanks.,technical_issue
+T01005,Hi there - What are your customer support opening hours? Thanks.,general_inquiry
+T01006,How do I change the email address on my account?,account_access
+T01007,"URGENT: The Pro plan won't load on MacBook, I just see a spinning wheel.",technical_issue
+T01008,"Hello team, Sync between the mobile app and my Windows laptop stopped working a week ago. Ticket ref #53984.",technical_issue
+T01009,"Hi, Someone else may have logged into my account, please help secure it. Thanks in advance!",account_access
+T01010,The API crashes on my iPhone every time I open it. Please reply asap!!,technical_issue
+T01011,URGENT: How long does a refund take to reach my card? Thanks.,refund_request
+T01012,"Good morning, I can't log in to my account, it says my password is wrong. Thanks in advance!",account_access
+T01013,"URGENT: Notifications stopped working on my Android phone after the update. Regards, Customer",technical_issue
+T01014,"Good  morning, The product was faulty and I want a full refund of €9.99. Regards, Customer",refund_request
+T01015,Need a copy of all invoices for last year for our accounts team.,billing
+T01016,"Good  morning, Can the desktop client be used offline on Firefox? Regards, Customer",general_inquiry
+T01017,"hello team, what are your customer support opening hours?",general_inquiry
+T01018,"Hi there - Please refund the €14.50 I paid, I cancelled within 14 days. Thanks.",refund_request
+T01019,"Hello team, How long does a refund take to reach my card? Thanks.",refund_request
+T01020,"Good morning, I keep getting 'unexpected token' when I try to save in the Basic plan. My email is user4317@example.com",technical_issue
+T01021,URGENT: How do I change the credit card used for the Pro plan?,billing
+T01022,"Good  morning, Can you send me a VAT invoice for my Pro plan subscription?",billing
+T01023,"Hello team, Do you offer training sessions for new teams? Thanks in advance!",general_inquiry
+T01024,"Hi,  Is there a student discount for the web dashboard? Thanks.",general_inquiry
+T01025,"Hello team, Need a copy of all invoices for last year for our accounts team. Please reply asap!!",billing
+T01026,"The mobile app won't load on Windows laptop, I just see 'unexpected token'. Thanks in advance!",technical_issue
+T01027,How long does a refund take to reach my card? Thanks in advance!,refund_request
+T01028,"Hello team, Do you offer training sessions for new teams? Ticket ref #68829.",general_inquiry
+T01029,"Hello team, When will my order be dispatched? I ordered since last Friday ago. Thanks in advance!",shipping_delivery
+T01030,"good morning, i can't log in to my account, it says my password is wrong.",account_access
+T01031,"Hi,  Can the team workspace be used offline on iPhone? My email is user63270@example.com",general_inquiry
+T01032,Hi there - Is there a student discount for the Basic plan? Thanks.,general_inquiry
+T01033,"Hello team, I keep getting a blank white screen when I try to save in the desktop client. Ticket ref #62972.",technical_issue
+T01034,EXPORT  TO PDF IN THE API PRODUCES AN EMPTY FILE. PLEASE REPLY ASAP!!,technical_issue
+T01035,"Good morning, Since the last update the Pro plan is very slow on iPad. Regards, Customer",technical_issue
+T01036,"HI, I UPGRADED TO THE BASIC PLAN AND GOT CHARGED €49 STRAIGHT AWAY, IS THAT RIGHT?",billing
+T01037,notifications stopped working on my iphone after the update. please reply asap!!,technical_issue
+T01038,"Hello team, I upgraded to the Basic plan and got charged €120 straight away, is that right? Regards, Customer",billing
+T01039,"hi, the basic plan won't load on windows laptop, i just see a blank white screen. my email is user37915@example.com",technical_issue
+T01040,What are your customer support opening hours? Thanks.,general_inquiry
+T01041,"Good morning, I wa scharged €49 twice this month for the desktop client. Please fix this. My email is user83706@example.com",billing
+T01042,Why does my invoice show €240 when my Basic plan should cost less? Thanks in advance!,billing
+T01043,CANCEL MY ORDER AND REFUND ME PLEASE.,refund_request
+T01044,Can I get my money back for the unused months of the desktop client? Please reply asap!!,refund_request
+T01045,"GOOD MORNING, MY PACKAGE FROM DPD ARRIVED DAMAGED. REGARDS, CUSTOMER",shipping_delivery
+T01046,"Hi there - I upgraded to the Pro plan and got charged €240 straight away, is that right?",billing
+T01047,"Hello team, Can the desktop client be used offline on iPad? My email is user49554@example.com",general_inquiry
+T01048,"Hello team, Since the last update the Pro plan is very slow on Firefox. Please reply asap!!",technical_issue
+T01049,The team workspace crashes on my Android phone every time I open it. Ticket ref #48934.,technical_issue
+T01050,Do you have a roadmap for new features in the Pro plan? Please reply asap!!,general_inquiry
+T01051,urgent:  sync between the web dashboard and my chrome stopped working 3 weeks ago. thanks.,technical_issue
+T01052,"Hi, I lost my phone and can't get my 2FA code, how do I get back in? My email is user2699@example.com",account_access
+T01053,"hello team, my account got locked after too many login attempts on my windows laptop. please reply asap!!",account_access
+T01054,"Good  morning, Sync between the team workspace and my Windows laptop stopped working 10 days ago. Please reply asap!!",technical_issue
+T01055,"Hi, My package from DPD arrived damaged. My email is user3542@example.com",shipping_delivery
+T01056,"Good morning, Need a copy of all invoices for last year for our accounts team. Ticket ref #26320.",billing
+T01057,"Hi, Two-factor codes are not being accepted on the desktop client. Thanks.",account_access
+T01058,"Good morning, Can I get my money back for the unused months of the API? Thanks in advance!",refund_request
+T01059,"Hi,  The product was faulty and I want a full refund of €19.99. Ticket ref #11316.",refund_request
+T01060,Hi  there - I need to add a new admin user to our team workspace. Thanks in advance!,account_access
+T01061,How do I change the credit card used for the API? Ticket ref #73106.,billing
+T01062,"URGENT: I'd like a refund for the desktop client, it doesn't do what I need.",refund_request
+T01063,"Hi, My card was billed €9.99 but I cancelled the desktop client last month.",billing
+T01064,"Good morning, An Post returned my parcel to sender, can you resend it? Thanks.",shipping_delivery
+T01065,"Good morning, I can't log in to my account, it says my password is wrong.",account_access
+T01066,notifications stopped working on my chrome after the update. ticket ref #73093.,technical_issue
+T01067,Why does my invoice show €14.50 when my API should cost less? Thanks.,billing
+T01068,"hello  team, my account got locked after too many login attempts on my android phone. please reply asap!!",account_access
+T01069,"Good morning, An Post returned my parcel to sender, can you resend it? Thanks in advance!",shipping_delivery
+T01070,Can the mobile app be used offline on MacBook? Thanks in advance!,general_inquiry
+T01071,"Hi there - Someone else may have logged into my account, please help secure it. My email is user63937@example.com",account_access
+T01072,"Hi, Why does my invoice show €9.99 when my Pro paln should cost less? Regards, Customer",billing
+T01073,"good  morning, can you send me a vat invoice for my web dashboard subscription?",billing
+T01074,Do you have a roadmap for new features in the Pro plan?,general_inquiry
+T01075,The  desktop client crashes on my Chrome every time I open it. Thanks.,technical_issue
+T01076,"Hello team, My account got locked after too many login attempts on my Chrome. Regards, Customer",account_access
+T01077,URGENT: NEED A COPY OF ALL INVOICES FOR LAST YEAR FOR OUR ACCOUNTS TEAM. MY EMAIL IS USER31345@EXAMPLE.COM,billing
+T01078,URGENT: Export to PDF in the API produces an empty file. Thanks.,technical_issue
+T01079,"hello  team, can the basic plan be used offline on ipad? ticket ref #48229.",general_inquiry
+T01080,"Hi, I received the wrong item in my delivery. Thanks.",shipping_delivery
+T01081,Can you send me a VAT invoice for my team workspace subscription?,billing
+T01082,Hi there - Do you ship to Northern Ireland and how long does it take? Ticket ref #29714.,shipping_delivery
+T01083,I received the wrong item in my delivery.,shipping_delivery
+T01084,Sync between the API and my Friefox stopped working 2 days ago.,technical_issue
+T01085,"Hello team, Do you offer training sessions for new teams? Regards, Customer",general_inquiry
+T01086,"URGENT: My order hasn't arrived, it's been 10 days and tracking shows nothing.",shipping_delivery
+T01087,"Hi, The desktop client won't load on MacBook, I just see error code E-4031.",technical_issue
+T01088,"Hi, Is my data stored in the EU? We need to check GDPR compliance.",general_inquiry
+T01089,My card was billed €240 but I cancelled the API last month.,billing
+T01090,"Good morning, My order hasn't arrived, it's been 3 weeks and tracking shows nothing. My email is user39455@example.com",shipping_delivery
+T01091,Why does my invoice show €120 when my Basic plan should cost less? Thanks.,billing
+T01092,Hi there - I need to add a new admin user to our team workspace. Thanks.,account_access
+T01093,"HI  THERE - HOW DO I CHANGE THE CREDIT CARD USED FOR THE DESKTOP CLIENT? REGARDS, CUSTOMER",billing
+T01094,Hi there - I received the wrong item in my delivery. Thanks.,shipping_delivery
+T01095,I  need to add a new admin user to our Pro plan.,account_access
+T01096,"hi  there - i was charged €9.99 twice this month for the api. please fix this. regards, customer",billing
+T01097,"Hello team, Can Ig et my money back for the unused months of the Basic plan?",refund_request
+T01098,URGENT: I returned the item since Monday ago and still have no refund. Thanks.,refund_request
+T01099,URGENT: The team workspace crashes on my MacBook every time I open it. Thanks in advance!,technical_issue
+T01100,Hi  there - Can I change the delivery address for my order before it ships? Thanks.,shipping_delivery
+T01101,"Hello team, I keep getting 'connection timed out' when I try to save in the desktop client. Ticket ref #37809.",technical_issue
+T01102,"hi, i lost my phone and can't get my 2fa code, how do i get back in? thanks.",account_access
+T01103,"Hi, When will my order be dispatched? I ordered since Monday ago. Thanks in advance!",shipping_delivery
+T01104,"good morning, i was promised a refund of €14.50 by your agent but nothing came. thanks in advance!",refund_request
+T01105,"URGENT: The Basic plan won't load on iPad, I just see a blank white screen.",technical_issue
+T01106,"Hi, I returned the item a week ago and still have no refund. My email is user94984@example.com",refund_request
+T01107,"Hello team, Why does my invoice show €14.50 when my web dashboard should cost less? Thanks in advance!",billing
+T01108,"Hello  team, Two-factor codes are not being accepted on the mobile app. My email is user58301@example.com",account_access
+T01109,"good morning, does the team workspace support exporting data to excel? regards, custoemr",general_inquiry
+T01110,"I can't log in to my account, it says my password is wrong. Thanks in advance!",account_access
+T01111,Hi  there - I returned the item a week ago and still have no refund. Ticket ref #27626.,refund_request
+T01112,"Hello team, Can the team workspace be used offline on MacBook? Thanks in advance!",general_inquiry
+T01113,"good morning, the payment for €14.50 failed but the money left my bank account. thanks in advance!",billing
+T01114,"Hi, Notifications stopped working on my Chrome after the update. Ticket ref #69673.",technical_issue
+T01115,"Good morning, How do I change the email address on my account? Ticket ref #23070.",account_access
+T01116,urgent:  my package from an post arrived damaged. thanks in advance!,shipping_delivery
+T01117,"Hi, The web dashboard crashes on my MacBook every time I open it. Ticket ref #34413.",technical_issue
+T01118,can  you send me a vat invoice fo rmy team workspace subscription?,billing
+T01119,Uploading  files fails with a blank white screen on the Basic plan. Ticket ref #4184.1,technical_issue
+T01120,HI  THERE - I RETURNED THE ITEM A WEEK AGO AND STILL HAVE NO REFUND.,refund_request
+T01121,WHY DOES MY INVOICE SHOW €14.50 WHEN MY TEAM WORKSPACE SHOULD COST LESS? THANKS.,billing
+T01122,"I can't log in to my account, it says my password is wrong.",account_access
+T01123,HI THERE - CANCEL MY ORDER ANDR EFUND ME PLEASE. THANKS.,refund_request
+T01124,"Hello team, I need to add a new admin user to our desktop client. Ticket ref #69819.",account_access
+T01125,"GOOD MORNING, FEDEX RETURNED MY PARCEL TO SENDER, CAN YOU RESEND IT? MY EMAIL IS USER17546@EXAMPLE.COM",shipping_delivery
+T01126,"good morning, i upgraded to the web dashboard and got charged €49 straight away, is that right? my email is user27044@example.com",billing
+T01127,"Hello team, I returned the item a week ago and still have no refund.",refund_request
+T01128,"My card was billed €19.99 but I cancelled the web dashboard last month. Regards, Customer",billing
+T01129,"Hi, The paymetn for €14.50 failed but the money left my bank account. My email is user9880@example.com",billing
+T01130,"Hello team, The payment for €14.50 failed but the money left my bank account. Please reply asap!!",billing
+T01131,The team workspace crashes on my Chrome every time I open it. Ticket ref #68367.,technical_issue
+T01132,"Is there a student discount for the team workspace? Regards, Customer",general_inquiry
+T01133,"Good morning, The mobile app crashes on my iPhone every time I open it. Thanks in advance!",technical_issue
+T01134,"Hello team, Does the Pro plan support exporting data to Excel?",general_inquiry
+T01135,URGENT: Do you ship to Northern Ireland and how long does it take? Please reply asap!!,shipping_delivery
+T01136,"Hi, I lost my phone and can't get my 2FA code, how do I get back in? My email is user36676@example.com",account_access
+T01137,The  payment for €49 failed but the money left my bank account. Thanks in advance!,billing
+T01138,"Hello team, Notifications stopped working on my Chrome after the update. Thanks.",technical_issue
+T01139,"I upgraded to the team workspace and got charged €19.99 straight away, is that right? Please reply asap!!",billing
+T01140,Sync between the web dashboard and my MacBook stopped working a week ago. Thanks.,technical_issue
+T01141,I WAS CHARGED €120 TWICE THIS MONTH FOR THE BASIC PLAN. PLEASE FIX THIS. THANKS.,billing
+T01142,Do  you ship to Northern rIeland and how long does it take? Please reply asap!!,shipping_delivery
+T01143,"hi, i was promised a refund of €9.99 by your agent but nothing came.",refund_request
+T01144,"Please refund the €19.99 I paid, I cancelled within 14 days. Please reply asap!!",refund_request
+T01145,"hello  team, notifications stopped working on my ipad after the update. thanks in advance!",technical_issue
+T01146,Why  does my invoice show €19.99 when my web dashboard should cost less? Please reply asap!!,billing
+T01147,"HI, CAN THE DESKTOP CLIENT BE USED OFFLINE ON ANDROID PHONE? TICKET REF #26098.",general_inquiry
+T01148,URGENT: Need a copy of all invoices for last year for our accounts team. Please reply asap!!,billing
+T01149,"my order hasn't arrived, it's been 3 weeks and tracking shows nothing. my email is user44850@example.com",shipping_delivery
+T01150,"Hi,  Sync between the desktop client and my Android phone stopped working 2 days ago. Please reply asap!!",technical_issue
+T01151,Hi there - Can I get my money back for the unused months of the Basic plan? Ticket ref #70302.,refund_request
+T01152,"hi, cancel my order and refnud me please.",refund_request
+T01153,"good morning, do you have a roadmap for new features in the mobile app? regards, customer",general_inquiry
+T01154,Sync between the Pro plan and my Android phone stopped working 3 weeks ago. Ticket ref #7260.,technical_issue
+T01155,URGENT: Uploading files fails with a spinning wheel on the team workspace. Thanks in advance!,technical_issue
+T01156,"Hi,  The Basic plan won't load on Chrome, I just see 'unexpected token'. Ticket ref #11443.",technical_issue
+T01157,URGENT: When will my order be dispatched? I ordered 3 weeks ago. Ticket ref #27750.,shipping_delivery
+T01158,"The password reset email never arrives. I've waited a week. Regards, Customer",account_access
+T01159,The password reset email never arrives. I've waited 2 days.,account_access
+T01160,"GOOD MORNING, WHAT ARE YOUR CUSTOMER SUPPORT OPENING HOURS? THANKS IN ADVANCE!",general_inquiry
+T01161,Notifications stopped working on my Android phone after the update.,technical_issue
+T01162,"Hi there - The desktop client won't load on Windows laptop, I just see error code E-4031. Thanks in advance!",technical_issue
+T01163,The mobile app crashes on my iPad every time I open it.,technical_issue
+T01164,I WAS CHARGED €240 TWICE THIS MONTH FOR THE TEAM WORKSPACE. PLEASE FIX THIS. TICKET REF #39463.,billing
+T01165,"hi, the payment for €19.99 failed butt he money left my bank account.",billing
+T01166,I keep getting error 500 when I try to save in the team workspace. Please reply asap!!,technical_issue
+T01167,Hi there - The password reset email never arrives. I've waited since Monday.,account_access
+T01168,URGENT: THE DHL TRACKING LINK SAYS DELIVERED BUT I NEVER GOT THE PARCEL. PLEASE REPLY ASAP!!,shipping_delivery
+T01169,"Hi there - Need a copy of all invoices for last year for our accounts team. Regards, Customer",billing
+T01170,URGENT: Why does my invoice show €9.99 when my desktop client should cost less? Thanks.,billing
+T01171,"Hello team, The payment for €240 failed but the money left my bank account. Thanks in advance!",billing
+T01172,"Hello  team, Notifications stopped working on my MacBook after the update.",technical_issue
+T01173,"I LOST MY PHONE AND CAN'T GET MY 2FA CODE, HOW DO I GET BACK IN?",account_access
+T01174,"AN  POST RETURNED MY PARCEL TO SENDER, CAN YOU RESEND IT? THANKS IN ADVANCE!",shipping_delivery
+T01175,"URGENT: Why does my invoice show €49 when my team workspace should cost less? Regards, Customer",billing
+T01176,"Hello team, Can I get my money back for the unused months of the web dashboard?",refund_request
+T01177,"good morning, two-factor codes are not being accepted on the web dashboard. thanks.",account_access
+T01178,"Hello  team, Sync between the web dashboard and my Android phone stopped working 3 weeks ago. Regards, Customer",technical_issue
+T01179,"Hi, Two-factor codes are not being accepted on the API. Please reply asap!!",account_access
+T01180,"Hi there - My order hasn't arrived, it's been 10 days and tracking shows nothing. Thanks in advance!",shipping_delivery
+T01181,"Hello team, My order hasn't arrived, it's been 3 weeks and tracking shows nothing. Please reply asap!!",shipping_delivery
+T01182,"Hello team, Uploading files fails with a spinning wheel on the API. Please reply asap!!",technical_issue
+T01183,sync between the api and my windows laptop stopped working 3 weeks ago.,technical_issue
+T01184,"I pugraded to the API and got charged €9.99 straight away, is that right? My email is user95166@example.com",billing
+T01185,Do you offer training sessions for new teams?,general_inquiry
+T01186,"Good morning, My package from DHL arrived damaged.",shipping_delivery
+T01187,"Hello team, Two-factor codes are not being accepted on the API. Please reply asap!!",account_access
+T01188,"Good morning, I lost my phone and can't get my 2FA code, how do I get back in? Thanks.",account_access
+T01189,"HELLO TEAM, SINCE THE LAST UPDATE THE PRO PLAN IS VERY SLOW ON IPHONE. REGARDS, CUSTOMER",technical_issue
+T01190,How do I change the credit card used for the Pro plan? Thanks.,billing
+T01191,"Hello team, The web dashboard won't load on Android phone, I just see a spinning wheel. Thanks in advance!",technical_issue
+T01192,"I  can't log in to my account, it says my password is wrong.",account_access
+T01193,Hi there - The password reset email never arrives. I've waited since last Friday. Thanks.,account_access
+T01194,"Hi, Why does my invoice show €14.50 when my Basic plan should cost less?",billing
+T01195,"Hello team, Can I get my money back for the unused months of the Basic plan? My email is user10363@example.com",refund_request
+T01196,the payment for €9.99 failed but the money left my bank account.,billing
+T01197,"Good  morning, Can you send me a VAT invoice for my web dashboard subscription? Please reply asap!!",billing
+T01198,Hi there - Notifications stopped working on my iPhone after the update. Thanks.,technical_issue
+T01199,"hello  team, the password reset email never arrives. i've waited since monday. please reply asap!!",account_access
+T01200,"The payment for €49 failed but the money left my bank account. Regards, Customer",billing
+T01201,"Hello  team, Sync between the mobile app and my Windows laptop stopped working 10 days ago. Thanks.",technical_issue
+T01202,"Good morning, Sync between the web dashboard and my Chrome stopped working 3 weeks ago. Please reply asap!!",technical_issue
+T01203,Hi there - Why does my invoice show €9.99 when my Pro plan should cost less?,billing
+T01204,urgent: i received the wrong item in my delivery. thnaks in advance!,shipping_delivery
+T01205,"Hi, I lost my phone and can't get my 2FA code, how do I get back in? Regards, Customer",account_access
+T01206,"Hi, Notifications stopped working on my iPhone after the update.",technical_issue
+T01207,Hi there - Uploading files fails with a blank white screen on the team workspace. Please reply asap!!,technical_issue
+T01208,urgent: why does my invoice show €49 when my web dashboard should cost less?,billing
+T01209,URGENT: The product was faulty and I want a full refund of €19.99.,refund_request
+T01210,Sync  between the Basic plan and my Android phone stopped working since Monday ago. Please reply asap!!,technical_issue
+T01211,hi there - need a copy of all invoices for last year for our accounts team. thanks in advance!,billing
+T01212,"hello team, my package from an post arrived damaged. my email is user43918@example.com",shipping_delivery
+T01213,"Good morning, My order hasn't arrived, it's been 2 days and tracking shows nothing.",shipping_delivery
+T01214,"I upgraded to the mobile app and got charged €240 straight away, is that right? Regards, Customer",billing
+T01215,"DPD returned my parcel to sender, can you resend it? Regards, Customer",shipping_delivery
+T01216,The payment for €120 failed but the money left my bank account.,billing
+T01217,IS THERE A STUDENT DISCOUNT FOR THE PRO PLAN? TICKET REF #11059.,general_inquiry
+T01218,"Hello  team, I upgraded to the desktop client and got charged €49 straight away, is that right? My email is user52838@example.com",billing
+T01219,"Hello team, My card was billed €9.99 but I cancelled the web dashboard last month. Thanks in advance!",billing
+T01220,"Hi, Export to PDF in the Pro plan produces an empty file. Thanks in advance!",technical_issue
+T01221,I need to add a new admin user to our desktop client. Thanks.,account_access
+T01222,"Hello team, The payment for €14.50 failed but the money left my bank account. Regards, Customer",billing
+T01223,URGENT:  Sync between the Basic plan and my Firefox stopped working since last Friday ago.,technical_issue
+T01224,Hi there - The password reset email never arrives. I've waited a week. My email is user34455@example.com,account_access
+T01225,Hi there - Do you offer training sessions for new teams? My email is user12751@example.com,general_inquiry
+T01226,"Hi there - Do you have a roadmap for new features in the Basic plan? Regards, Customer",general_inquiry
+T01227,Hi there - Can you send me a VAT invoice for my mobile app subscription?,billing
+T01228,"URGENT: I upgraded to the Pro plan and got charged €120 straight away, is that right? Regards, Customer",billing
+T01229,"Hello  team, Do you have a roadmap for new features in the API?",general_inquiry
+T01230,URGENT: How do I change the email address on my account? Thanks.,account_access
+T01231,"Good morning, I keep getting error code E-4031 when I try to save in the team workspace.",technical_issue
+T01232,Hi there - The password reset email never arrives. I've waited 3 weeks. Thanks.,account_access
+T01233,"Hello team, I was charged €120 twice this month for the team workspace. Please fix this. Ticket ref #79694.",billing
+T01234,Do  you offer training sessions for new teams? Please reply asap!!,general_inquiry
+T01235,Hi there - Why does my invoice show €49 when my team workspace should cost less? Thanks.,billing
+T01236,Hi there - How do I change the credit card used for the Basic plan? My email is user59024@example.com,billing
+T01237,"Hi there - I upgraded to the team workspace and got charged €120 straight away, is that right? Please reply asap!!",billing
+T01238,"Hi there - Someone else may have logged into my account, please help secure it.",account_access
+T01239,"HELLO  TEAM, I KEEP GETTING 'CONNECTION TIMED OUT' WHEN I TRY TO SAVE IN THE BASIC PLAN. TICKET REF #15249.",technical_issue
+T01240,Is there a student discount for the desktop client? Ticket ref #15761.,general_inquiry
+T01241,Need a copy of all invoices for last year for our accounts team. Thanks in advance!,billing
+T01242,"Can I change the delivery address for my order before it ships? Regards, Customer",shipping_delivery
+T01243,"Hello team, Sync between the desktop client and my Windows laptop stopped working 3 weeks ago.",technical_issue
+T01244,My card was billed €120 but I cancelled the desktop client last month.,billing
+T01245,"Good  morning, Export to PDF in the team workspace produces an empty file. Ticket ref #31360.",technical_issue
+T01246,"Good morning, How do I change the email address on my account?",account_access
+T01247,Hi there - What are your customer support opening hours? Thanks in advance!,general_inquiry
+T01248,URGENT: My card was billed €19.99 but I cancelled the Pro plan last month. Please reply asap!!,billing
+T01249,How do I change the credit card used for the API? Thanks.,billing
+T01250,"Hello team, I upgraded to the web dashboard and got charged €14.50 straight away, is that right? Regards, Customer",billing
+T01251,"Good morning, Is there a student discount for the Pro plan? Thanks in advance!",general_inquiry
+T01252,"I lost my phone and can't get my 2FA code, how do I get back in?",account_access
+T01253,"Hello team, I'd like a refund for the desktop client, it doesn't do what I need. Thanks in advance!",refund_request
+T01254,Hi  there - Need a copy of all invoices for last year for our accounts team. My email is user65867@example.com,billing
+T01255,urgent: is my data stored in the eu? we need to check gdpr compliance. thanks in advance!,general_inquiry
+T01256,"URGENT: Since the last update the desktop client is very slow on Firefox. Regards, Customer",technical_issue
+T01257,"Hi, I need to add a new admin user to our API. Thanks.",account_access
+T01258,"Someone else may have logged into my account, please help secure it. Thanks in advance!",account_access
+T01259,"hi, can i get my money back for the unused months of the team workspace? ticket ref #22551.",refund_request
+T01260,Export to PDF in the Basic plan produces an empty file. Ticket ref #78217.,technical_issue
+T01261,Sync between the team workspace and my Chrome stopped working since last Friday ago. Please reply asap!!,technical_issue
+T01262,"How  long does a refund take to reach my card? Regards, Customer",refund_request
+T01263,Hi there - The password reset email never arrives. I've waited 3 weeks.,account_access
+T01264,"Hi, How do I change the credit card used for the Basic plan? My email is user15093@example.com",billing
+T01265,"GOOD MORNING, TWO-FACTOR CODES ARE NOT BEING ACCEPTED ON THE TEAM WORKSPACE. TICKET REF #59632.",account_access
+T01266,Hi there - Why does my invoice show €9.99 when my mobile app should cost less? My email is user51191@example.com,billing
+T01267,Hi there - My account got locked after too many login attempts on my MacBook. Thanks in advance!,account_access
+T01268,"Hello  team, Do you offer training sessions for new teams? My email is user71636@example.com",general_inquiry
+T01269,"Good  morning, I lost my phone and can't get my 2FA code, how do I get back in? Please reply asap!!",account_access
+T01270,What are your customer support opening hours?,general_inquiry
+T01271,"Please refund the €240 I paid, I cancelled within 14 days.",refund_request
+T01272,Hi  there - Since the last update the desktop client is very slow on iPhone. Ticket ref #51570.,technical_issue
+T01273,urgent: my package from fedex arrived damaged. ticket ref #20622.,shipping_delivery
+T01274,HOW DO I CHANGE THE CREDIT CARD USED FOR THE MOBILE APP?,billing
+T01275,"Hi there - I'd like a refund for the desktop client, it doesn't do what I need.",refund_request
+T01276,"Hello team, I can't log in to my account, it says my password is wrong.",account_access
+T01277,"The API won't load on Firefox, I just see error code E-4031. Thanks.",technical_issue
+T01278,Hi there - I received the wrong item in my delivery. Ticket ref #7959.,shipping_delivery
+T01279,URGENT: Need a copy of all invoices for last year for our accounts team. Thanks in advance!,billing
+T01280,"Good morning, Can you send me a VAT invoice for my desktop client subscription? Please reply asap!!",billing
+T01281,Hi  there - Since the last update the mobile app is very slow on Firefox. Thanks in advance!,technical_issue
+T01282,"Good morning, I need to add a new admin user to our Basic plan. Please reply asap!!",account_access
+T01283,Can I change the delivery address for my order before it ships? Thanks.,shipping_delivery
+T01284,Hi  there - I received the wrong item in my edlivery. Thanks.,shipping_delivery
+T01285,The FedEx tracking link says delivered but I never got the parcel.,shipping_delivery
+T01286,URGENT: I need to add a new admin user to our API. Thanks in advance!,account_access
+T01287,"Hello team, Notifications stopped working on my iPad after the update. Regards, Customer",technical_issue
+T01288,"good morning, why does my invoice show €19.99 when my mobile app should cost less?",billing
+T01289,"Good morning, How do I change the email address on my account? Regards, Customer",account_access
+T01290,"hello team, i upgraded to the web dashboard and got charged €19.99 straight away, is that right?",billing
+T01291,Need a copy of all invoices for last yea rfor our accounts team.,billing
+T01292,URGENT: I RECEIVED THE WRONG ITEM IN MY DELIVERY. THANKS IN ADVANCE!,shipping_delivery
+T01293,the desktop client crashes on my android phone every time i open it. thanks.,technical_issue
+T01294,Hi there - Can I change the delivery address for my order before it ships? Thanks.,shipping_delivery
+T01295,URGENT:  Do you ship to Northern Ireland and how long does it take?,shipping_delivery
+T01296,"Hello team, I can't log in to my account, it says my password is wrong. Regards, Customer",account_access
+T01297,I returned the item 2 days ago and still have no refund. Thanks.,refund_request
+T01298,URGENT: Can you send me a VAT invoice for my API subscription?,billing
+T01299,"Hi, Since the last update the Basic plan is very slow on iPad. Please reply asap!!",technical_issue
+T01300,"Hello team, The payment for €9.99 failed but the money left my bank account. Please reply asap!!",billing
+T01301,"Please  refund the €14.50 I paid, I cancelled within 14 days. Ticket ref #23607.",refund_request
+T01302,"i can't log in to my account, it says my password is wrong.",account_access
+T01303,"I upgraded to the mobile app and got charged €9.99 straight away, is that right?",billing
+T01304,I  was charged €9.99 twice this month for the team workspace. Please fix this. My email is uesr12067@example.com,billing
+T01305,I keep getting 'connection timed out' when I try to save in the Pro plan.M y email is user40352@example.com,technical_issue
+T01306,"Hi, The API won't load on iPad, I just see error code E-4031. Ticket ref #79139.",technical_issue
+T01307,"good  morning, do you have a roadmap for new features in the api? ticket ref #58253.",general_inquiry
+T01308,"Hi,  Need a cop yof all invoices for last year for our accounts team. Ticket ref #14129.",billing
+T01309,"Need  a copy of all invoices for last year for our accounts team. Regards, Customer",billing
+T01310,"Good morning, When will my order be dispatched? I ordered since last Friday gao.",shipping_delivery
+T01311,Export to PDF in the web dashboard produces an empty file. Thanks in advance!,technical_issue
+T01312,Uploading files fails with a blank white screen on the Pro plan. My email is user38572@example.com,technical_issue
+T01313,"Hi there - I was promised a refundo f €240 by your agent but nothing came. Regards, Customer",refund_request
+T01314,"Hello tema, I upgraded to the team workspace and got charged €19.99 straight away, is that right?",billing
+T01315,"Hi, I'd like a refund for the desktop client, it doesn't do what I need.",refund_request
+T01316,"hi  there - is my data stored in the eu? we need to check gdpr compliance. regards, customer",general_inquiry
+T01317,Hi there - Uploading files fails with error code E-4031 on the mobile app. Please reply asap!!,technical_issue
+T01318,"Hello team, The API crashes on my Android phone every time I open it.",technical_issue
+T01319,Hi there - Why does my invoice show €120 when my mobile app should cost less?,billing
+T01320,"URGENT: SOMEONE ELSE MAY HAVE LOGGED INTO MY ACCOUNT, PLEASE HELP SECURE IT. MY EMAIL IS USER88108@EXAMPLE.COM",account_access
+T01321,Hi there - I keep getting error code E-4031 when I try to save in the team workspace.,technical_issue
+T01322,"Hi, My package from DHL arrived damaged. Ticket ref #24819.",shipping_delivery
+T01323,"Hello team, Notifications stopped working on my Chrome after the update.",technical_issue
+T01324,HI THERE - NOTIFICATIONS STOPPED WORKING ON MY ANDROID PHONE AFTER THE UPDATE. TICKET REF #37073.,technical_issue
+T01325,The product was faulty and I want a full refund of €14.50.,refund_request
+T01326,"good morning, the password reset email never arrives. i've waited 2 days.",account_access
+T01327,URGENT: CAN I CHANGE THE DELIVERY ADDRESS FOR MY ORDER BEFORE IT SHIPS? THANKS IN ADVANCE!,shipping_delivery
+T01328,"Hi, Where can I find documentation for the API?",general_inquiry
+T01329,"Why does my invoice show €240 when my web dashboard should cost less? Regards, Customer",billing
+T01330,Hi there - The DHL tracking link says delivered but I never got the parcel.,shipping_delivery
+T01331,"Good morning, The password reset email never arrives. I've waited 3 weeks.",account_access
+T01332,Hi there - Notifications stopped working on my Firefox after the update. Ticket ref #92288.,technical_issue
+T01333,The DHL tracking link says delivered but I nveer got the parcel.,shipping_delivery
+T01334,How long does a refund take to reach my card?,refund_request
+T01335,"Hi there - DPD returned my parcel to sender, can you resend it? Thanks.",shipping_delivery
+T01336,"HI THERE - I WAS CHARGED €240 TWICE THIS MONTH FOR THE API. PLEASE FIX THIS. REGARDS, CUSTOMER",billing
+T01337,When will my order be dispatched? I ordered 3 weeks ago. My email is user54799@example.com,shipping_delivery
+T01338,"Hello team, Where can I find documentation for the web dashboard?",general_inquiry
+T01339,"Good morning, I'd like a refund for the web dashboard, it doesn't do what I need. Ticket ref #18145.",refund_request
+T01340,"Good morning, How do I change the credit card used for the API? Ticket ref #22006.",billing
+T01341,HI  THERE - I WAS PROMISED A REFUND OF €240 BY YOUR AGENT BUT NOTHING CAME. THANKS.,refund_request
+T01342,What  are your customer support opening hours? Ticket ref #8860.,general_inquiry
+T01343,"Hi there - Someone else may have logged into my account, please help secure it.",account_access
+T01344,The  payment for €240 failed but the money left my bank account. Ticket ref #10979.,billing
+T01345,hi there - export to pdf in the mobile app produces an empty file. ticket ref #99639.,technical_issue
+T01346,"Hi, Uploading files fails with 'unexpected token' on the API. Thanks in advance!",technical_issue
+T01347,"urgent: i upgraded to the mobile app and got charged €240 straight away, is that right? my email is user45373@example.com",billing
+T01348,Hi there - Is there a student discount for the desktop client? My email is user90413@example.com,general_inquiry
+T01349,"Good morning, Sync between the Basic plan and my Firefox stopped working 3 weeks ago.",technical_issue
+T01350,"good morning, where can i find documentation for the desktop client? ticket re f#33366.",general_inquiry
+T01351,"Good  morning, Do you have a roadmap for new features in the mobile app? Thanks in advance!",general_inquiry
+T01352,"The FedEx tracking link says delivered but I never got the parcel. Regards, Customer",shipping_delivery
+T01353,Where can I find documentation for the mobile app? Please reply asap!!,general_inquiry
+T01354,Hi there - How do I change the credit card used for the Basic plan? My email is user66842@example.com,billing
+T01355,"Hi, Someone else may have logged into my account, please help secure it.",account_access
+T01356,"Hi, I returned the item 2 days ago and still have no refund. Ticket ref #94123.",refund_request
+T01357,URGENT: Export to PDF in the Basic plan produces an empty file. Thanks.,technical_issue
+T01358,do  you have a roadmap for new features in the basic plan? thanks in advance!,general_inquiry
+T01359,Does the Pro plan support exporting data to Excel? Ticket ref #16022.,general_inquiry
+T01360,"Hi,  I need to add a new admin user to our desktop client. Regards, Customer",account_access
+T01361,"Hi, Can the mobile app be used offline on Firefox?",general_inquiry
+T01362,The payment for €14.50 failed but the money left my bank account.,billing
+T01363,"GOOD MORNING, DOES THE MOBILE APP SUPPORT EXPORTING DATA TO EXCEL? TICKET REF #58348.",general_inquiry
+T01364,"Hi, Do you offer training sessions for new teams? Ticket ref #49623.",general_inquiry
+T01365,"Good morning, Can the Pro plan be used offline on iPad? Ticket ref #81493.",general_inquiry
+T01366,"hi there - i can't log in to my account, it says my password is wrong. thanks in advance!",account_access
+T01367,Hi there - Need a copy of all invoices for last year for our accounts team.,billing
+T01368,"HELLO TEAM, THE TEAM WORKSPACE WON'T LOAD ON CHROME, I JUST SEE ERROR CODE E-4031.",technical_issue
+T01369,IS THERE A STUDENT DISCOUNT FOR THE WEB DASHBOARD? THANKS.,general_inquiry
+T01370,"Hello  team, Where can I find documentation for the Basic plan? Please reply asap!!",general_inquiry
+T01371,"Someone else may have logged into my account, please help secure it. Thanks.",account_access
+T01372,"Good morning, My card was billed €49 but I cancelled the API last month. My email is user7998@example.com",billing
+T01373,"Good morning, Since the last update the Pro plan is very slow on iPad. Please reply asap!!",technical_issue
+T01374,i returned the item 2 days ago and still have no refund.,refund_request
+T01375,The web dashboard crashes on my Android phone every time I open it. Thanks.,technical_issue
+T01376,"Hello team, The Pro plan crashes on my MacBook every time I open it. Regards, Customer",technical_issue
+T01377,Where can I find documentation for the Pro plan?,general_inquiry
+T01378,What are your customer support opening hours?,general_inquiry
+T01379,my card was billed €9.99 but i cancelled the basic plan last month. please reply asap!!,billing
+T01380,Hi there - When will my order be dispatched? I ordered a week ago. Thanks.,shipping_delivery
+T01381,"Good morning, Since the last update the API is very slow on Windows laptop.",technical_issue
+T01382,I keep getting 'connection timed out' when I try to save in the Basic plan. Please reply asap!!,technical_issue
+T01383,"Good  morning, Need a copy of all invoices for last year for our accounts team. Thanks in advance!",billing
+T01384,"Hi, Do you offer training sessions for new teams? Thanks in advance!",general_inquiry
+T01385,"hi, where can i find documentation for the team workspace?",general_inquiry
+T01386,Hi there - Export to PDF in the API produces an empty file. Thanks.,technical_issue
+T01387,"The Pro plan won't load on iPhone, I just see error 500.",technical_issue
+T01388,URGENT: The Basic plan crashes on my Windows laptop every time I open it.,technical_issue
+T01389,urgent: where can i find documentation for the team workspace?,general_inquiry
+T01390,"I can't log in to my account, it says my password is wrong.",account_access
+T01391,"Good morning, The product was faulty and I want a full refund of €14.50. Regards, Customer",refund_request
+T01392,"URGENT:  I CAN'T LOG IN TO MY ACCOUNT, IT SAYS MY PASSWORD IS WRONG.",account_access
+T01393,"Hi, Do you have a roadmap for new features in the mobile app?",general_inquiry
+T01394,"URGENT: I lost my phone and can't get my 2FA code, how do I get back in?",account_access
+T01395,sync between the mobile app and my firefox stopped working a week ago. please reply asap!!,technical_issue
+T01396,"HELLO TEAM, I WAS CHARGED €120 TWICE THIS MONTH FOR THE WEB DASHBOARD. PLEASE FIX THIS. TICKET REF #94995.",billing
+T01397,"Hi there - I lost my phone and can't get my 2FA cod,e how do I get back in? Regards, Customer",account_access
+T01398,"URGENT: SOMEONE ELSE MAY HAVE LOGGED INTO MY ACCOUNT, PLEASE HELP SECURE IT. THANKS IN ADVANCE!",account_access
+T01399,"hi there - since the last update the web dashboard is very slow on android phone. regards, customer",technical_issue
+T01400,Can you send me  aVAT invoice for my mobile app subscription?,billing
+T01401,"Hello team, I upgraded to the API and got cahrged €19.99 straight away, is that right?",billing
+T01402,"Good morning, Is my data stored in the EU? We need to check GDPR compliance. Please reply asap!!",general_inquiry
+T01403,Notifications stopped working on my Android phone after the update.,technical_issue
+T01404,"Good morning, Does the desktop client support exporting data to Excel?",general_inquiry
+T01405,Hi there - Since the last update the Pro plan is very slow on Firefox.,technical_issue
+T01406,Hi there - I keep getting 'connection timed out' when I try to save in the API.,technical_issue
+T01407,"Hello team, Why does my invoice show €14.50 when my web dashboard should cost less? Please reply asap!!",billing
+T01408,"Hi, Someone else may have logged into my account, please help secure it. Regards, Customer",account_access
+T01409,"I received the wrong item in my delivery. Regards, Customer",shipping_delivery
+T01410,The payment for €49 failed but the money left m ybank account. Thanks in advance!,billing
+T01411,Two-factor codes are not being accepted on the desktop client.,account_access
+T01412,"HI, MY CARD WAS BILLED €120 BUT I CANCELLED THE BASIC PLAN LAST MONTH.",billing
+T01413,URGENT: How do I change the credit card used for the Pro plan?,billing
+T01414,I keep getting 'unexpected token' when I try to save in the API.,technical_issue
+T01415,"good morning, what are your customer support opening hours? thanks in advance!",general_inquiry
+T01416,"HELLO TEAM, NOTIFICATIONS STOPPED WORKING ON MY ANDROID PHONE AFTER THE UPDATE.",technical_issue
+T01417,Do you offer training sessions for newt eams? Ticket ref #21050.,general_inquiry
+T01418,"Hi, Uploading files fails with error code E-4031 on the mobile app. Thanks in advance!",technical_issue
+T01419,"good  morning, i upgraded to the basic plan and got charged €19.99 straight away, is that right? thanks.",billing
+T01420,"since the last update the team workspace is very slow on firefox. regards, customer",technical_issue
+T01421,URGENT: Need a copy of all invoices for last year for our accounts team. Tickte ref #20335.,billing
+T01422,"Hi, Someone else may have logged into my account, please help secure it. Thanks.",account_access
+T01423,Can you send me a VAT invoice for my Basic plan subscription? Thanks in advance!,billing
+T01424,"Hi, The payment for €120 failed but the money left my bank account. Regards, Customer",billing
+T01425,"Hello team, Where can I find documentation for the Basic plan? My email is user36501@example.com",general_inquiry
+T01426,"I was promised a refund of €19.99 by your agent but nothing came. Regards, Customer",refund_request
+T01427,"Good morning, Can the API be used offline on iPhone? Thanks.",general_inquiry
+T01428,Can you send me a VAT invoice for my Pro plan subscription?,billing
+T01429,DO YOU HAVE A ROADMAP FOR NEW FEATURES IN THE BASIC PLAN? PLEASE REPLY ASAP!!,general_inquiry
+T01430,Hi  there - Can I get my money back for the unused months of the Pro plan?,refund_request
+T01431,"Hi, Export to PDF in the Pro plan produces an empty file. Please reply asap!!",technical_issue
+T01432,"URGENT: I lost my phone and can't get my 2FA code, how do I get back in? My email is user26427@example.com",account_access
+T01433,"DPD returned my parcel to sender, can you resend it? My email is user60371@example.com",shipping_delivery
+T01434,"Good  morning, The password reset email never arrives. I've waited since last Friday. Please reply asap!!",account_access
+T01435,"Hi, The Pro plan crashes on my iPhone every time I open it. Thanks.",technical_issue
+T01436,Uploading files fails with error code E-4031 on the Basic plan.,technical_issue
+T01437,URGENT: Since the last update the API is very slow on iPad. Thanks.,technical_issue
+T01438,"URGENT: The team workspace won't load on iPad, I just see a blank white screen. Thanks.",technical_issue
+T01439,is  there a student discount for the pro plan? thanks in advance!,general_inquiry
+T01440,"Hi there - I upgraded to the Pro plan and got charged €14.50 straight away, is that right? Thanks.",billing
+T01441,Can I get my money back for the unused months of the web dashboard? Thanks.,refund_request
+T01442,"Hello team, Is there a student discount for the desktop client? Regards, Customer",general_inquiry
+T01443,Do you have a roadmap for new features in the desktop client?,general_inquiry
+T01444,Is there a student discount for the desktop client? Please reply asap!!,general_inquiry
+T01445,I was charged €240 twice this month for the web dashboard. Please fix this.,billing
+T01446,EXPORT TO PDF IN THE DESKTOP CLIENT PRODUCES AN EMPTY FILE. PLEASE REPLY ASAP!!,technical_issue
+T01447,When will my order be dispatched? I ordered since last Friday ago. Please reply asap!!,shipping_delivery
+T01448,"hi, i keep getting error 500 when i try to save in the team workspace. ticket ref #95421.",technical_issue
+T01449,"H,i The API crashes on my Firefox every time I open it. Thanks in advance!",technical_issue
+T01450,"Good morning, I'd like a refund for the ombile app, it doesn't do what I need.",refund_request
+T01451,Hi there - Can you send me a VAT invoice for my API subscription? My email is user70727@example.com,billing
+T01452,"Hello  team, My card was billed €120 but I cancelled the web dashboard last month. Thanks.",billing
+T01453,URGENT: I received the wrong item in my delivery. Thanks in advance!,shipping_delivery
+T01454,"SOMENOE  ELSE MAY HAVE LOGGED INTO MY ACCOUNT, PLEASE HELP SECURE IT. PLEASE REPLY ASAP!!",account_access
+T01455,"HELLO  TEAM, CANCEL MY ORDER AND REFUND ME PLEASE. MY EMAIL IS USER38236@EXAMPLE.COM",refund_request
+T01456,"Hello team, I lost my phon eand can't get my 2FA code, how do I get back in? Regards, Customer",account_access
+T01457,"The web dashboard won't load on Firefox, I just ese error 500.",technical_issue
+T01458,URGENT: Uploading files fails with error code E-4031 on the API.,technical_issue
+T01459,"hi, the desktop client crashes on my windows laptop every time i open it. thanks.",technical_issue
+T01460,"Hello team, Sync between the Pro plan and my iPad stopped working 10 days ago. Please reply asap!!",technical_issue
+T01461,"Good morning, Can the team workspace be used offline on Windows laptop? Regards, Customer",general_inquiry
+T01462,"Hi there - Two-factor codes are not being accepted on the team workspace. Regards, Customer",account_access
+T01463,Hi there - Can I change the delivery address for my order before it ships? Ticket ref #17817.,shipping_delivery
+T01464,The product was faulty and I want a full rfeund of €19.99. My email is user17919@example.com,refund_request
+T01465,"The Basic plan won't load on Windowsl aptop, I just see 'connection timed out'. My email is user77756@example.com",technical_issue
+T01466,"I  lost my phone and can't get my 2FA code, how do I get back in?",account_access
+T01467,"Hi, Need a copy of all invoices for last year for our accounts team. Ticket ref #25944.",billing
+T01468,"Hi, Someone else may have logged into my account, please help secure it. Regards, Customer",account_access
+T01469,"I keep getting a blank white screen when I try to save in the Basic plan. Regards, Customer",technical_issue
+T01470,can i get my money back for the unused months of the mobile app? thanks in advance!,refund_request
+T01471,"URGENT: Someone else may have logged into my account, please help secure it. Please reply asap!!",account_access
+T01472,"HI, IS THERE A STUDENT DISCOUNT FOR THE TEAM WORKSPACE?",general_inquiry
+T01473,"Hi, How do I change the credit card used for the Pro plan? Ticket ref #52228.",billing
+T01474,my package from dpd arrived damaged.,shipping_delivery
+T01475,URGENT: Can I get my money back for the unused months of the Pro plan? My email is user9876@example.com,refund_request
+T01476,"Good  morning, Does the web dashboard support exporting data to Excel? Please reply asap!!",general_inquiry
+T01477,the pro plan crashes on my android phone every time i open it. my email is user23364@example.com,technical_issue
+T01478,URGENT: The payment for €14.50 failed but the money lfet my bank account. Thanks.,billing
+T01479,"Good morning, Can the desktop client be used offline on Chrome? My email is user43089@example.com",general_inquiry
+T01480,"Good morning, The product was faulty and I want a full refund of €49. My email is user21196@example.com",refund_request
+T01481,"Good morning, My card was billed €9.99 but I cancelled the mobile app last month. Ticket ref #52668.",billing
+T01482,can  you send me a vat invoice for my web dashboard subscription?,billing
+T01483,DOES THE BASIC PLAN SUPPORT EXPORTING DATA TO EXCEL?,general_inquiry
+T01484,"Hi, Can you send me a VAT invoice for my API subscription? Regards, Customer",billing
+T01485,Hi there - My account got locked after too many login attempts on my Android phone. Thanks in advance!,account_access
+T01486,"I UPGRADED TO THE BASIC PLAN AND GOT CHARGED €240 STRAIGHT AWAY, IS THAT RIGHT? TICKET REF #26212.",billing
+T01487,Hi there - Can the moblie app be used offline on MacBook? My email is user67659@example.com,general_inquiry
+T01488,"Good morning, How do I change the credit card used for the API?",billing
+T01489,Can I change the delivery address for my order before it ships? Please reply asap!!,shipping_delivery
+T01490,how  do i change the credit card used for the api? please reply asap!!,billing
+T01491,Can I change the delivery address for my order before it ships? Ticket ref #29621.,shipping_delivery
+T01492,URGENT: Notifications stopped working on my MacBook after the update. Thanks.,technical_issue
+T01493,urgent: the payment for €9.99 faile dbut the money left my bank account. thanks in advance!,billing
+T01494,Two-factor  codes are not being accepted on the desktop client. Thanks.,account_access
+T01495,"Hello  team, The password reset email never arrives. I've waited 3 weeks. Ticket ref #71226.",account_access
+T01496,"How  do I change the credit card used for the mobile app? Regards, Customer",billing
+T01497,"Hello team, I need to add a new admin user to our web dashboard. Please reply asap!!",account_access
+T01498,"hi there - please refund the €240 i paid, i cancelled within 14 days. thanks.",refund_request
+T01499,"I was charged €9.99 twice this month for the mobile app. Please fix this. Regards, Customer",billing
+T01500,"URGENT: What are your customer support opening hours? Regards, Customer",general_inquiry
+T01501,"my order hasn't arrived, it's been 3 weeks and tracking shows nothing. thanks.",shipping_delivery
+T01502,"Good morning, Notifications stopped working on my iPad after the update.",technical_issue
+T01503,"Hello team, Do you ship to Northern Ireland and how long does it take?",shipping_delivery
+T01504,"Good morning, Sync between the team workspace and my Android phone stopped working a week ago. Ticket ref #89234.",technical_issue
+T01505,Do you ship to Northern Ireland and how long does it take? Ticket ref #60621.,shipping_delivery
+T01506,URGENT: Do you have a roadmap for new features in the Basic plan? Thanks.,general_inquiry
+T01507,Why does my invoice show €49 when my API should cost less? My email is user51546@example.com,billing
+T01508,"hi there - i can't log in to my account, it says my password is wrong. thanks in advance!",account_access
+T01509,URGENT: What are your customer support opening hours? Thanks in advance!,general_inquiry
+T01510,Hi  there - Is there a student discount for the desktop client? Ticket ref #23389.,general_inquiry
+T01511,urgent: my card was billed €19.99 but i cancelled the mobile app last month. ticket ref #83349.,billing
+T01512,"Hi there - I'd like a refund for the web dashboard, it doesn't do what I need. Ticket ref #56450.",refund_request
+T01513,Hi there - The API crashes on my iPhone every time I open it. My email is user34411@example.com,technical_issue
+T01514,"Hi, Can you send me a VAT invoice for my team workspace subscription? My email is user32789@example.com",billing
+T01515,"The UPS tracking link says delivered but I never got the parcel. Regards, Customer",shipping_delivery
+T01516,"Hello team, How long does a refund take to reach my card? My email is suer6122@example.com",refund_request
+T01517,"good morning, the payment for €9.99 failed but the money left my bank account. thanks in advance!",billing
+T01518,export to pdf in the mobile app produces an empty file. ticket ref #32006.,technical_issue
+T01519,"Good morning, Can you send me a VAT invoice for my Pro plan subscription?",billing
+T01520,URGENT: Do you offer training sessions for new teams? My email is user71957@example.com,general_inquiry
+T01521,URGENT: I NEED TO ADD A NEW ADMIN USER TO OUR DESKTOP CLIENT. THANKS.,account_access
+T01522,Hi there - I keep getting 'connection timed out' when I try to save in the Pro plan. Thanks.,technical_issue
+T01523,Notifications stopped working on my Windows laptop after the update. Thanks.,technical_issue
+T01524,"I upgraded to the team workspace and got charged €19.99 straight away, is that right?",billing
+T01525,Hi there - Need a copy of all invoices for last year for our accounts team. Please reply asap!!,billing
+T01526,"Hi, Can I get my money back for the unused months of the mobile app? Please reply asap!!",refund_request
+T01527,"Good morning, Can you send me a VAT invoice for my web dashboard subscription? My email is user32041@example.com",billing
+T01528,"Hi, Can I get my money back for the unused months of the API? Please reply asap!!",refund_request
+T01529,"THE PRO PLAN WON'T LOAD ON MACBOOK, I JUST SEE ERROR CODE E-4031. PLEASE REPLY ASAP!!",technical_issue
+T01530,"Hello team, Do you ship to Northern Ireland and how long does it take? Regards, Customer",shipping_delivery
+T01531,"Good morning, Uploading files fails with a spinning wheel on the Pro plan. Regards, Customer",technical_issue
+T01532,"I can't log in to my accoutn, it says my password is wrong. Thanks in advance!",account_access
+T01533,Since the last update the web dashboard is very slow on iPhone. Thanks.,technical_issue
+T01534,URGENT: Notifications stopped working on my Windows laptop after the update.,technical_issue
+T01535,"Hello team, I received the wrong item in my delivery.",shipping_delivery
+T01536,Need a copy of all invoices for last year for our accounts team.,billing
+T01537,do you offer training sessions for new teams?,general_inquiry
+T01538,Hi there - Two-factor codes are not being accepted on the team workspace.,account_access
+T01539,"Hi, Uploading files fails with 'unexpected token' on the desktop client. My email is user77393@example.com",technical_issue
+T01540,WHERE CAN I FIND DOCUMENTATION FOR THE DESKTOP CLIENT?,general_inquiry
+T01541,"hello team, the password reset email never arrives. i've waited since monday. my email is user11741@example.com",account_access
+T01542,"Hello team, Where can I find documentation for the team workspace? Thanks.",general_inquiry
+T01543,"HELLO TEAM, HOW DO I CHANGE THE CREDIT CARD USED FOR THE TEAM WORKSPACE? THANKS IN ADVANCE!",billing
+T01544,"Hello  team, I was charged €14.50 twice this month for the desktop client. Please fix this.",billing
+T01545,HI THERE - DO YOU HAVE A ROADMAP FOR NEW FEATURES IN THE BASIC PLAN? PLEASE REPLY ASAP!!,general_inquiry
+T01546,Hi  there - How do I change the credit card used for the Basic plan?,billing
+T01547,"HELLO TEAM, I NEED TO ADD A NEW ADMIN USER TO OUR MOBILE APP. THANKS IN ADVANCE!",account_access
+T01548,"HELLO TEAM, PLEASE REFUND THE €49 I PAID, I CANCELLED WITHIN 14 DAYS. THANKS IN ADVANCE!",refund_request
+T01549,"Hi, Cancel my order and refund me please. Thanks in advance!",refund_request
+T01550,"Hi, The desktop client crashes on my iPhonee very time I open it. Ticket ref #12842.",technical_issue
+T01551,I was promised a refund of €120 by your agent but nothing came. Please reply asap!!,refund_request
+T01552,"Hello team, My package from FedEx arrived damaged. Ticket ref #86217.",shipping_delivery
+T01553,URGENT: The payment for €240 failed but the money left my bank account.,billing
+T01554,"URGENT: I LOST MY PHONE AND CAN'T GET MY 2FA CODE, HOW DO I GET BACK IN?",account_access
+T01555,"Hi, Export to PDF in the web dashboard produces an empty file. Regards, Customer",technical_issue
+T01556,"Hi, Two-factor codes are not being accepted on the Pro plan. My email is user53708@example.com",account_access
+T01557,"Good  morning, Does the API support exporting data to Excel? My email is user36339@example.com",general_inquiry
+T01558,how long does a refund take to reach my card? my email is user35849@example.com,refund_request
+T01559,Hi there - What are your customer support opening hours? Thanks in advance!,general_inquiry
+T01560,"hello team, how do i change the email address on my account? regards, customer",account_access
+T01561,The FedEx tracking link says delivered but I never got the parcel. Thanks.,shipping_delivery
+T01562,"hello team, my card was billed €19.99 but i cancelled the team workspace last month. pleaser eply asap!!",billing
+T01563,urgent: when will my order be dispatched? i ordered 10 days ago. thanks in advance!,shipping_delivery
+T01564,URGENT: Is there a student discount for the Basic plan? My email is user20794@example.com,general_inquiry
+T01565,"Good morning, How do I change the credit card used for the Pro plan?",billing
+T01566,"Hello  team, I was charged €49 twice this month for the Pro plan. Please fix this.",billing
+T01567,"Good morning, Can I change the delivery address for my order before it ships? Thanks in advance!",shipping_delivery
+T01568,Does the Pro plan support exporting data to Excel?,general_inquiry
+T01569,need a copy of all invoices for last year for our accounts team. my email is user23500@example.com,billing
+T01570,"Good morning, I received the wrong item in my delivery.",shipping_delivery
+T01571,"Hello  team, The DPD tracking link says delivered but I never got the parcel. My email is user1824@example.com",shipping_delivery
+T01572,"hello team, the product was faulty and i want a full refund of €19.99.",refund_request
+T01573,"Good morning, Can I change the delivery address for my order before it ships? Regards, Customer",shipping_delivery
+T01574,"Hello team, My card was billed €240 but I cancelled the web dashboard last month. Thanks in advance!",billing
+T01575,"hello team, my account got locked after too many login attempts on my windows laptop. please reply asap!!",account_access
+T01576,"Hi there - What are your customer support opening hours? Regards, Customer",general_inquiry
+T01577,"Hello team, I was promised a refund of €120 by your agent but nothing came. Regards, Customer",refund_request
+T01578,"HELLO TEAM, THE PASSWORD RESET EMAIL NEVER ARRIVES. I'VE WAITED 3 WEEKS. THANKS.",account_access
+T01579,Hi there - Two-factor codes are not being accepted on the web dashboard. Thanks in advance!,account_access
+T01580,THE  PASSWORD RESET EMAIL NEVER ARRIVES. I'VE WAITED 10 DAYS. TICKET REF #25574.,account_access
+T01581,"GOOD  MORNING, I RECEIVED THE WRONG ITEM IN MY DELIVERY.",shipping_delivery
+T01582,uploading files fails with a spinning wheel on the desktop client.,technical_issue
+T01583,"Good morning, The payment for €9.99 failed but the money left my bank account. Ticket ref #75411.",billing
+T01584,URGENT: Need a copy of all invoices for last year for our accounts team. My email is user97994@example.com,billing
+T01585,i keep getting 'connection timed out' when i try to save in the team workspace. ticket ref #33105.,technical_issue
+T01586,Two-factor  codes are not being accepted on the Basic plan. My email is user11811@example.com,account_access
+T01587,URGENT:  When will my order be dispatched? I ordered 10 days ago.,shipping_delivery
+T01588,Hi there - Sync between the mobile app and my MacBook stopped working 3 weeks ago. Ticket ref #76334.,technical_issue
+T01589,URGENT: Export to PDF in the Basic plan produces an empty file. Thanks.,technical_issue
+T01590,"My  card was billed €19.99 but I cancelled the Basic plan last month. Regards, Customer",billing
+T01591,Is my data stored in the EU? We need to check GDPR compliance. Please reply asap!!,general_inquiry
+T01592,URGENT: The mobile app crashes on my iPhone every time I open it. Thanks.,technical_issue
+T01593,Do  you ship to Northern Ireland and how long does it take?,shipping_delivery
+T01594,Why does my invoice show €19.99 when my Basic plan should cost less?,billing
+T01595,"URGENT: I upgraded to the Pro plan and got charged €9.99 straight away, is that right? Regards, Customer",billing
+T01596,"Hello team, Uploading files fails with 'unexpected token' on the mobile app. Thanks.",technical_issue
+T01597,URGENT: What are your customer support opening hours? My email is user95264@example.com,general_inquiry
+T01598,The  product was faulty and I want a full refund of €14.50. Ticket ref #71091.,refund_request
+T01599,URGENT: I returned the item 3 weeks ago and still have no refund. Ticket ref #47017.,refund_request
+T01600,"Hello team, Need a copy of all invoices for last year for our accounts team. Regards, Customer",billing
+T01601,the web dashboard crashes on my iphone every time i open it. my email is user40496@example.com,technical_issue
+T01602,"Hi, I upgraded to the desktop client and got charged €120 straight away, is that right? Thanks.",billing
+T01603,"URGENT:  The mobile app won't load on Chrome, I just see 'unexpected token'. Regards, Customer",technical_issue
+T01604,"Good morning, Two-factor codes are not being accepted on the API. Thanks in advance!",account_access
+T01605,I returned th eitem 10 days ago and still have no refund. Ticket ref #71364.,refund_request
+T01606,"Good  morning, I'd like a refund for the Basic plan, it doesn't do what I need. Regards, Customer",refund_request
+T01607,"I UPGRADED TO THE PRO PLAN AND GOT CHARGED €19.99 STRAIGHT AWAY, IS THAT RIGHT? TICKET REF #7929.",billing
+T01608,"good morning, the pro plan crashes on my iphone every time i open it. regards, customer",technical_issue
+T01609,"Good morning, I need to add a new admin user to our team workspace.",account_access
+T01610,"Hello team, My odrer hasn't arrived, it's been since Monday and tracking shows nothing. Regards, Customer",shipping_delivery
+T01611,"Hello team, Need a copy of all invoices for last year for our accounts team.",billing
+T01612,"I  can't log in to my account, it says my password is wrong. Thanks in advance!",account_access
+T01613,"Hello team, Need a copy of all invoices for last year for our accounts team. Ticket ref #33940.",billing
+T01614,URGENT: Export to PDF in the web dashboard produces an empty file.,technical_issue
+T01615,"I can't log in to my account, it says my password si wrong. Thanks in advance!",account_access
+T01616,"Hello team, Someone else may have logged into my account, please help secure it. My email is user3611@example.com",account_access
+T01617,My package from DPD arrived damaged.,shipping_delivery
+T01618,"Hi, I was charged €49 twice this month for the Basic plan. Please fix this. Regards, Customer",billing
+T01619,"Hi, I returned the item 2 days ago and still have no refund.",refund_request
+T01620,"Hello team, How long does a refund take to reach my card?",refund_request
+T01621,"Hi, DPD returned my parcel to sender, can you resend it? Please reply asap!!",shipping_delivery
+T01622,"Hi, Can the web dashboard be used offline on MacBook? Ticket ref #17027.",general_inquiry
+T01623,I returned the item 3 wekes ago and still have no refund.,refund_request
+T01624,"hello team, notifications stopped working on my firefox after the update. thanks in advance!",technical_issue
+T01625,HOW LONG DOES A REFUND TAKE TO REACH MY CARD?,refund_request
+T01626,URGENT: How do I change the email address on my account? Thanks in advance!,account_access
+T01627,"Hello team, The team workspace crashes on my Android phone every time I open it. Please reply asap!!",technical_issue
+T01628,"Hello  team, Notifications stopped working on my Chrome after the update. Regards, Customer",technical_issue
+T01629,"Hello  team, Sync between the Basic plan and my MacBook stopped working 10 days ago. Ticket ref #63375.",technical_issue
+T01630,URGENT: EXPORT TO PDF IN THE API PRODUCES AN EMPTY FILE. TICKET REF #78505.,technical_issue
+T01631,Hi there - The mobile app crashes on my iPad every time I open it. My email is user27216@example.com,technical_issue
+T01632,"hello team, uploading files fails with 'unexpected token' on the team workspace. please reply asap!!",technical_issue
+T01633,"Good morning, Do you ship to Northern Ireland and how long does it take?",shipping_delivery
+T01634,urgent: i returned the item 2 days ago and still have no refund. thanks.,refund_request
+T01635,"Good morning, Cancel my order and refund me please. Thanks.",refund_request
+T01636,hi there - notifications stopped working on my chrome after the update.,technical_issue
+T01637,"Hello  team, Do you offer training sessions for new teams? Thanks.",general_inquiry
+T01638,"good  morning, cancel my odrer and refund me please. thanks in advance!",refund_request
+T01639,"Good morning, I upgraded to the team workspace and got charged €19.99 straight away, is that right? Thanks in advance!",billing
+T01640,Does the API support exporting data to Excel? Please reply asap!!,general_inquiry
+T01641,The password reset email never arrives. I've waited a week. My email is usre92844@example.com,account_access
+T01642,"I upgraded to the Basic plan and got charged €240 straight away, is that right? Ticket ref #8798.",billing
+T01643,Hi  there - Cancel my order and refund me please. My email is user35704@example.com,refund_request
+T01644,"HELLO  TEAM, SOMEONE ELSE MAY HAVE LOGGED INTO MY ACCOUNT, PLEASE HELP SECURE IT. PLEASE REPYL ASAP!!",account_access
+T01645,"hi there - is there a studentd iscount for the api? regards, customer",general_inquiry
+T01646,"hi, my card was billed €19.99 but i cancelled the mobile app last month. thanks.",billing
+T01647,URGENT: The Pro plan crashes on my Chrome every time I open it. Please reply asap!!,technical_issue
+T01648,"Hi, I lost my phone and can't get my 2FA code, how do I get back in? Thanks in advance!",account_access
+T01649,"Good morning, I was charged €240 twice this month for the mobile app. Please fix this.",billing
+T01650,i need to add a new admin usert o our team workspace. thanks.,account_access
+T01651,"The mobile app won't load on Android phone, I just see a blank white screen. Regards, Customer",technical_issue
+T01652,"Hi, My card was billed €120 but I cancelled the Basic plan last month.",billing
+T01653,"urgent:  the basic plan won't load on firefox, i just see error code e-4031.",technical_issue
+T01654,The  API crashes on my Chrome every time I open it. Thanks.,technical_issue
+T01655,Hi there - How long does a refund take to reach my card ?Thanks.,refund_request
+T01656,URGENT: Export to PDF in the desktop client produces an empty file. Please reply asap!!,technical_issue
+T01657,Uploading files fails with a spinning wheel on the desktop client.,technical_issue
+T01658,"Hi there - Someone else may have logged into my account, please help secure it. Thanks in advance!",account_access
+T01659,"I can't log in to my account, it says my password is wrong. Ticket ref #37036.",account_access
+T01660,"Good morning, My package from DPD arrived damaged. Ticket ref #94139.",shipping_delivery
+T01661,"Good morning, Export to PDF in the Basic plan produces an empty file. Thanks in advance!",technical_issue
+T01662,URGENT: My account got locked after too many login attempts on my iPad. Thanks.,account_access
+T01663,is my data stored in the eu? we need to check gdpr compliance. thanks.,general_inquiry
+T01664,Uploading  files fails with error 500 on the API. Ticket ref #52697.,technical_issue
+T01665,"The  team workspace won't load on iPad, I just see error code E-4031. Thanks in advance!",technical_issue
+T01666,"Hi there - I can't log in to my account, it says my password is wrong. Please reply asap!!",account_access
+T01667,"Hello team, Can you send me a VAT invoice for my web dashboard subscription? Thanks.",billing
+T01668,"FedEx returned my parcel to sender, can yo uresend it? Ticket ref #37881.",shipping_delivery
+T01669,urgent: since the last update the basic plan is very slow on windows laptop. thanks.,technical_issue
+T01670,The payment for €9.99 failed but the money left my bank account. Thanks in advance!,billing
+T01671,"good morning, i received the wrong item in my delivery. my email is user56079@example.com",shipping_delivery
+T01672,HI  THERE - THE TEAM WORKSPACE CRASHES ON MY WINDOWS LAPTOP EVERY TIME I OPEN IT. PLEASE REPLY ASAP!!,technical_issue
+T01673,"Two-factor codes are not being accepted on the Basic plan. Regards, Customer",account_access
+T01674,"HI THERE - THE PAYMENT FOR €49 FAILED BUT THE MONEY LEFT MY BANK ACCOUNT. REGARDS, CUSTOMER",billing
+T01675,URGENT: Two-factor codes are not being accepted on the web dashboard.,account_access
+T01676,URGENT: I was charged €49 twice this month for the Pro plan. Please fix this. Please reply asap!!,billing
+T01677,URGENT: The team workspace crashes on my iPad every time I open it.,technical_issue
+T01678,When will my order be dispatched? I ordered 10 days ago. Thanks in advance!,shipping_delivery
+T01679,Do you ship to Northern Ireland and how long does it take? Ticket ref #99961.,shipping_delivery
+T01680,Uploading files fails with 'unexpected token' on the desktop client.,technical_issue
+T01681,"Hi, The payment for €240 failed but the money left my bank account. Ticket ref #3678.",billing
+T01682,The Basic plan crashes on my Firefox every time I opne it. Thanks in advance!,technical_issue
+T01683,URGENT:  The password reset email never arrives. I've waited 3 weeks. My email is user76318@example.com,account_access
+T01684,"Hello team, Someone else may have logged into my account, please help secure it.",account_access
+T01685,URGENT: Need a copy of all invoices for last year for our accounts team.,billing
+T01686,"Hello  team, I upgraded to the team workspcae and got charged €9.99 straight away, is that right? My email is user4898@example.com",billing
+T01687,"Hi there - I can't log in to my account, it says my password is wrong.",account_access
+T01688,"Hello team, The team workspace won't load on Android phone, I just see error code E-4031.",technical_issue
+T01689,URGENT: The Basic plan crashes on my Firefox every time I open it. Thanks in advance!,technical_issue
+T01690,"HELLO TEAM, I CAN'T LOG IN TO MY ACCOUNT, IT SAYS MY PASSWORD IS WRONG. MY EMAIL IS USER4510@EXAMPLE.COM",account_access
+T01691,"GOOD  MORNING, HOW DO I CHANGE THE CREDIT CARD USED FOR THE MOBILE APP? REGARDS, CUSTOMER",billing
+T01692,URGENT: The An Post tracking link says delivered but I never got the parcel.,shipping_delivery
+T01693,HI THERE - THE PRO PLAN CRASHES ON MY MACBOOK EVERY TIME I OPEN IT. THANKS.,technical_issue
+T01694,I was charged €120 twice this month for the API. Please fix this.,billing
+T01695,What are your customer support opening hours? Ticket ref #73124.,general_inquiry
+T01696,The desktop client crashes on my iPad every time I open it. Please repyl asap!!,technical_issue
+T01697,WHY  DOES MY INVOICE SHOW €120 WHEN MY DESKTOP CLIENT SHOULD COST LESS? TICKET RFE #52368.,billing
+T01698,"Hi, I was charged €19.99 twice this month for the desktop client. Please fix this. Regards, Customer",billing
+T01699,URGENT: Do you ship to Northern Ireland and how long does it take?,shipping_delivery
+T01700,"HELLO TEAM, DO YOU SHIP TO NORTHERN IRELAND AND HOW LONG DOES IT TAKE? THANKS.",shipping_delivery
+T01701,"Hello team, The Basic plan crashes on my Chrome every time I open it. Regards, Customer",technical_issue
+T01702,"Good morning, Sync between the desktop client and my iPad stopped working since Monday ago. My email is user49131@example.com",technical_issue
+T01703,The product was faulty and I want a full refund of €14.50. My email is user66327@example.com,refund_request
+T01704,hi there - is there a student discount for the basic plan? ticket ref #38185.,general_inquiry
+T01705,Is  there a student discount for the Basic plan? Ticket ref #25185.,general_inquiry
+T01706,Hi there - Export to PDF in the API produces an empty file. Ticket ref #80989.,technical_issue
+T01707,"Hello team, Do you have a roadmap for new features in the Basic plan? My email is user94076@example.com",general_inquiry
+T01708,"Hi, Sync between the mobile app and my Chrome stopped working since Monday ago. Thanks in advance!",technical_issue
+T01709,"URGENT: My card was billed €9.99 but I cancelled the web dashboard last month. Regards, Customer",billing
+T01710,"hi, the password reset email never arrives. i've waited 2 days.",account_access
+T01711,"Hello team, Need a copy of all invoices for last year for our accounts team. Please reply asap!!",billing
+T01712,"HI, THE MOBILE APP CRASHES ON MY CHROME EVERY TIME I OPEN IT. THANKS.",technical_issue
+T01713,"Good morning, I keep getting a blank white screne when I try to save in the API.",technical_issue
+T01714,"Hi, The web dashboard crashes on my Chrome every time I open it. Ticket ref #75956.",technical_issue
+T01715,When will my order be dispatched? I ordered a week ago. My email is user34767@example.com,shipping_delivery
+T01716,HOW DO I CHANGE THE EMAIL ADDRESS ON MY ACCOUNT? MY EMAIL IS USER65994@EXAMPLE.COM,account_access
+T01717,URGENT:  I keep getting a blank white screen when I try to save in the team workspace. Please reply asap!!,technical_issue
+T01718,"Hi, Two-factor codes are not being accepted on the web dashboard. Regards, Customer",account_access
+T01719,"I can't log in to my account, it says my password is wrong. Please reply asap!!",account_access
+T01720,I need to add a new admin user to our desktop client. My email is user92105@example.com,account_access
+T01721,Notifications  stopped working on my Windows laptop after the update. Please reply asap!!,technical_issue
+T01722,Hi  there - Need a copy of all invoices for last year for our accounts team. Please reply asap!!,billing
+T01723,"hi,  i can't log in to my account, it says my password is wrong. regards, customer",account_access
+T01724,"Good morning, My account got locked after too many login attempts on my iPhone. Ticket ref #52597.",account_access
+T01725,"Hello team, Notifications stopped working on my Windows laptop after the update.",technical_issue
+T01726,"HELLO TEAM, NOTIFICATIONS STOPPED WORKING ON MY CHROME AFTER THE UPDATE. PLEASE REPLY ASAP!!",technical_issue
+T01727,Hi there - The API crashes on my Chrome every time I open it. My email is user6578@example.com,technical_issue
+T01728,"hello team, i lost my phone and can't get my 2fa code, how do i get back in? thanks.",account_access
+T01729,URGENT: My card was billed €19.99 but I cancelled the team workspace last month.,billing
+T01730,"Hello team, Is there a student discount for the Pro plan?",general_inquiry
+T01731,"good  morning, my order hasn't arrived, it's been since last friday and tracking shows nothing.",shipping_delivery
+T01732,Sync between the API and my Windows laptop stopped working 3 weeks ago. Thanks.,technical_issue
+T01733,"The Basic plan crashes on my Firefox every time I poen it. Regards, Customer",technical_issue
+T01734,"I  CAN'T LOG IN TO MY ACCOUNT, IT SAYS MY PASSWORD IS WRONG. TICKET REF #52879.",account_access
+T01735,"GOOD  MORNING, WHAT ARE YOUR CUSTOMER SUPPORT OPENING HOURS?",general_inquiry
+T01736,"Can I get my money back for the unused months of the desktop client? Regards, Customer",refund_request
+T01737,How  do I change the email address on my account? Ticket ref #6460.,account_access
+T01738,"Hi, I need to add a new admin user to our mobile app. Thanks.",account_access
+T01739,Hi there - Do you have a roadmap for new features in the API?,general_inquiry
+T01740,Can the team workspace be used offline on Windows laptop? Please reply asap!!,general_inquiry
+T01741,"hello team, i upgraded to the pro plan and got charged €120 straight away, is that right? ticket ref #4995.",billing
+T01742,Do  you offer training sessions for new teams? Please reply asap!!,general_inquiry
+T01743,"Hello team, The DHL tracking link says delivered but I never got the parcel. Please reply asap!!",shipping_delivery
+T01744,URGENT: How do I change the credit card used for the mobile app? Ticket ref #35631.,billing
+T01745,Hi there - Is my data stored in the EU? We need to check GDPR compliance.,general_inquiry
+T01746,"Hi, Notifications stopped working on my Android phone after the update. Thanks in advance!",technical_issue
+T01747,"Good morning, The mobile app crashes on my Firefox every time I open it. My email i suser63134@example.com",technical_issue
+T01748,My card was billed €14.50 but I cancelled the Basic plan last month. Thanks in advance!,billing
+T01749,My card was billed €120 but I cancelled the Basic plan last month. Thanks.,billing
+T01750,Is my data stored in the EU? We need to check GDPR compliance. My email is user63049@example.com,general_inquiry
+T01751,URGENT: SINCE THE LAST UPDATE THE PRO PLAN IS VERY SLOW ON ANDROID PHONE.,technical_issue
+T01752,Hi  there - The product was faulty and I want a full refund of €19.99.,refund_request
+T01753,"The team workspace won't load on iPhone, I just see 'connection timed out'. Thanks.",technical_issue
+T01754,My package from An Post arrived damaged. Ticket ref #38269.,shipping_delivery
+T01755,"Hello team, Can I change the delivery address for my order before it ships? Thanks in advance!",shipping_delivery
+T01756,UPLOADING FILES FAILS WITH A BLANK WHITE SCREEN ON THE DESKTOP CLIENT. PLEASE REPLY ASAP!!,technical_issue
+T01757,"Hi, I lost my phone and can't get my 2FA code, how do I get back in? My email is usre93806@example.com",account_access
+T01758,Cancel my order and refund me please. My email is user56082@example.com,refund_request
+T01759,"Good morning, I was charged €120 twice this month for the Basic plan. Please fix this. Please reply asap!!",billing
+T01760,Hi there - What are your customer support opening hours? My email is user85631@example.com,general_inquiry
+T01761,"URGENT: CANCEL MY ORDER AND REFUND ME PLEASE. REGARDS, CUSTOMER",refund_request
+T01762,"i'd like a refund for the team workspace, it doesn't do what i need. ticket ref #39875.",refund_request
+T01763,"Good morning, Since the last update the Pro plan is very slow on Android phone.",technical_issue
+T01764,URGENT:  The Pro plan crashes on my Firefox every time I open it. Ticket ref #98165.,technical_issue
+T01765,"HI THERE - I LOST MY PHONE AND CAN'T GET MY 2FA CODE, HOW DO I GET BACK IN? MY EMAIL IS USER98848@EXAMPLE.COM",account_access
+T01766,URGENT:  My card was billed €14.50 but I cancelled the Basic plan last month.,billing
+T01767,"Hi, I keep getting 'unexpected token' when I try to save in the desktop client. Please reply asap!!",technical_issue
+T01768,"Hi, Do you offer training sessions for new teams? My email is user82727@example.com",general_inquiry
+T01769,"Good  morning, The team workspace crashes on my Chroem every time I open it.",technical_issue
+T01770,"Hi, Why does my invoice show €49 when my web dashboard should cost less? Ticket ref #37409.",billing
+T01771,do you ship to northern ireland and how long does it take? ticket ref #36992.,shipping_delivery
+T01772,"Hi, I returned the item 2 days ago and still have no refund. Ticket ref #47255.",refund_request
+T01773,"hello team, export to pdf in the mobile app produces an empty file. ticket ref #71046.",technical_issue
+T01774,"Please refund the €19.99 I paid, I cancelled within 14 days. Regards, Customer",refund_request
+T01775,Hi  there - How long does a refund take to reach my card? Thanks in advance!,refund_request
+T01776,"Good morning, Someone else may have logged into my account, please help secure it. My email is user18685@example.com",account_access
+T01777,"Good morning, Uploading files fails with error code E-4031 on the API. Thanks in advance!",technical_issue
+T01778,Hi  there - Does the API support exporting data to Excel?,general_inquiry
+T01779,Since the last update the desktop client is very slow on Chrome.,technical_issue
+T01780,"URGENT: I can't log in to my account, it says my password is wrong.",account_access
+T01781,"Hi there - The Pro plan won't load on Firefox, I just see error code E-4031. Regards, Customer",technical_issue
+T01782,"Hi there - How do I change the credit card used for the team workspace? Regards, Customer",billing
+T01783,"Hello team, Does the desktop client support exporting data to Excel? Regards, Customer",general_inquiry
+T01784,URGENT:  Cancel my order and refund me please. Thanks in advance!,refund_request
+T01785,"Good morning, What are your customer support opening hours? Ticket ref #48423.",general_inquiry
+T01786,"hello team, i upgradde to the basic plan and got charged €19.99 straight away, is that right? thanks in advance!",billing
+T01787,"Good morning, Do you have a roadmap for new features in the web dashboard? Ticket ref #42465.",general_inquiry
+T01788,"URGENT: The payment for €120 failed but the money left my bank account. Regards, Customer",billing
+T01789,"hi  there - i can't log in to my account, it says my password is wrong.",account_access
+T01790,Notifications stopped working on my MacBook after the update. My email is user54873@example.com,technical_issue
+T01791,"Good morning, Since the last update the Basic plan is very slow on Chrome.",technical_issue
+T01792,"Hello team, I uprgaded to the team workspace and got charged €9.99 straight away, is that right? My email is user1923@example.com",billing
+T01793,Hi there - My card was billed €19.99 but I cancelled the Basic plan last month. Ticket ref #73519.,billing
+T01794,"Hello team, Do you offer training sessions for new teams? Please reply asap!!",general_inquiry
+T01795,urgent: can i get my money back for the unused months of the basic plan? my email is user31949@example.com,refund_request
+T01796,How do I change the credit card used for the mobile app? My email is user89620@example.com,billing
+T01797,"Hi  there - My package from DHL arrived damaged. Regards, Custmoer",shipping_delivery
+T01798,"hello team, what are your customer support opening hours? ticket ref #71222.",general_inquiry
+T01799,The password reset email never arrives. I've waited 3 weeks. My email is user71480@example.com,account_access
+T01800,"Good morning, The product was faulty and I want a full refund of €14.50. My email is user76301@example.com",refund_request
